@@ -1,0 +1,1330 @@
+ID,Chinese Name,English Name,Latin Name,Rarity (1-4 from rare to common)
+1,雪鹑,Snow Partridge, Lerwa lerwa,0
+2,藏雪鸡,Tibetan Snowcock,Tetraogallus tibetanus,2
+3,阿尔泰雪鸡,Altai Snowcock,Tetraogallus altaicus,1
+4,暗腹雪鸡,Himalayan Snowcock,Tetraogallus himalayensis,1
+5,雉鹑,Pheasant Grouse,Tetraophasis obscurus,3
+6,四川雉鹑,Sichuan Pheasant Partridge,Tetraophasis szechenyii,3
+7,石鸡,Chukar,Alectoris chukar,0
+8,大石鸡,Rusty-necklaced Partridge,Alectoris magna,0
+9,中华鹧鸪,Chinese Francolin,Francolinus pintadeanus,0
+10,灰山鹑,Grey Partridge,Perdix perdix,2
+11,斑翅山鹑,Daurian Partridge,Perdix dauuricae,0
+12,高原山鹑,Tibetan Partridge,Perdix hodgsoniae,0
+13,鹌鹑,Common Quail,Coturnix coturnix,1
+14,日本鹌鹑,Japanese Quail,Coturnix japonica,0
+15,蓝胸鹑,Blue-breasted Quail,Coturnix chinensis,1
+16,环颈山鹧鸪,Hill Partridge,Arborophila torqueola,0
+17,红喉山鹧鸪,Rufous-throated Partridge,Arborophila rufogularis,1
+18,白颊山鹧鸪,White-cheeked Partridge,Arborophila atrogularis,0
+19,台湾山鹧鸪,White-throated Hill Partridge,Arborophila crudigularis,3
+20,红胸山鹧鸪,Red-breasted Hill Partridge,Arborophila mandellii,1
+21,褐胸山鹧鸪,Brown-breasted Hill Partridge,Arborophila brunneopectus,0
+22,四川山鹧鸪,Sichuan Partridge,Arborophila rufipectus,1
+23,白眉山鹧鸪,White-necklaced Partridge,Arborophila gingica,1
+24,海南山鹧鸪,Hainan Partridge,Arborophila ardens,1
+25,绿脚山鹧鸪,Scaly-breasted Partridge,Arborophila charltonii,3
+26,棕胸竹鸡,Mountain Bamboo-Partridge,Bambusicola fytchii,2
+27,灰胸竹鸡,Chinese Bamboo-Partridge,Bambusicola thoracica,0
+28,血雉,Blood Pheasant,Ithaginis cruentus,0
+29,黑头角雉,Western Tragopan,Tragopan melanocephalus,1
+30,红胸角雉,Satyr Tragopan,Tragopan satyra,2
+31,灰腹角雉,Grey-bellied Tragopan,Tragopan blythii,2
+32,红腹角雉,Temminck's Tragopan,Tragopan temminckii,0
+33,黄腹角雉,Yellow-bellied Tragopan,Tragopan caboti,1
+34,勺鸡,Yellow-necked koklass pheasa,Pucrasia macrolopha,1
+35,棕尾虹雉,Himalayan Monal Pheasant,Pucrasia macrolopha,2
+36,白尾梢虹雉,Sclater's Monal Pheasant,Lophophorus sclateri,1
+37,绿尾虹雉,Chinese Monal Pheasant,Lophophorus lhuysii,1
+38,原鸡,Red Junglefowl,Gallus gallus,0
+39,黑鹇,Kalij Pheasant,Lophura leucomelanos,1
+40,白鹇,Silver Pheasant,Lophura nycthemera,0
+41,蓝鹇,Taiwan Blue Pheasant,Lophura swinhoii,2
+42,藏马鸡,Tibetan Eared-pheasant,Crossoptilon harmani,0
+43,白马鸡,White Eared-Pheasant,Crossoptilon crossoptilon,0
+44,褐马鸡 ,Brown Eared-Pheasant,Crossoptilon mantchuricum,1
+45,蓝马鸡,Blue Eared Pheasant,Crossoptilon auritum,0
+46,白颈长尾雉,White-necked Long-tailed Pheas,Syrmaticus ellioti,0
+47,黑颈长尾雉,Mrs.Hume's Pheasant,Syrmaticus humiae,1
+48,黑长尾雉,Taiwan Long-tailed Pheasant,Syrmaticus mikado,1
+49,白冠长尾雉,White-crowned Long-tailed Phea,Syrmaticus reevesii,1
+50,雉鸡,Common Pheasant,Phasianus colchicus,2
+51,红腹锦鸡,Golden Pheasant,Chrysolophus pictus,0
+52,白腹锦鸡,Lady Amherst's Pheasant,Chrysolophus amherstiae,2
+53,灰孔雀雉,Hainan grey peacock-pheasant,Polyplectron bicalcaratum,1
+54,海南孔雀雉 ,Hainan Peacock Pheasant,Polyplectron katsumatae,1
+55,绿孔雀,Green Peafowl,Pavo muticus,2
+56,镰翅鸡,Sickle-winged Grouse,Dendragapus falcipennis,1
+57,柳雷鸟,Willow Ptarmigan,Lagopus lagopus,1
+58,岩雷鸟,Rock Ptarmigan,Lagopus mutus,1
+59,黑琴鸡,Black Grouse,Tetrao tetrix,0
+60,西方松鸡,Western Capercaillie,Tetrao urogallus,1
+61,黑嘴松鸡,Spotted Capercaillie,Tetrao parvirostris,1
+62,花尾榛鸡,Hazel Grouse,Tetrastes bonasia,0
+63,斑尾榛鸡,Chinese Hazel Grouse,Tetrastes sewerzowi,1
+64,栗树鸭,Tree Duck,Dendrocygna javanica,0
+65,白头硬尾鸭,White-headed Stiff-tailed Duck,Oxyura leucocephala,1
+66,疣鼻天鹅,White Swan,Cygnus olor,2
+67,大天鹅,Whooper Swan,Cygnus cygnus,3
+68,小天鹅,Whistling Swan,Cygnus columbianus,1
+69,鸿雁,Swan Goose,Anser cygnoides,1
+70,豆雁,Bean Goose,Anser fabalis,0
+71,白额雁,White-fronted Goose,Anser albifrons,3
+72,小白额雁,Lesser White-fronted Goose,Anser erythropus,1
+73,灰雁,Greylag Goose,Anser anser,0
+74,斑头雁,Bar-headed Goose,Anser indicus,0
+75,雪雁,Snow Goose,Anser caerulescens,1
+76,加拿大雁,Canada Goose,Branta canadensis,0
+77,黑雁,Brent Goose,Branta bernicla,1
+78,红胸黑雁,Red-breasted Goose,Branta ruficollis,1
+79,赤麻鸭,Ruddy Shelduck,Tadorna ferruginea,0
+80,冠麻鸭,Crested Shelduck,Tadorna cristata,1
+81,翘鼻麻鸭,Common Shelduck,Tadorna tadorna,0
+82,瘤鸭,Comb Duck,Sarkidiornis melanotos,1
+83,棉凫,Cotton Teal,Nettapus coromandelianus,0
+84,鸳鸯,Mandarin Duck,Aix galericulata,1
+85,赤膀鸭,Gadwall,Anas strepera,2
+86,罗纹鸭,Falcated Duck,Anas falcata,0
+87,赤颈鸭,Wigeon,Anas penelope,0
+88,葡萄胸鸭,American Wigeon,Anas americana,1
+89,绿头鸭,Mallard,Anas platyrhynchos,0
+90,斑嘴鸭,Spot-billed Duck,Anas poecilorhyncha,0
+91,棕颈鸭,Philippine Duck,Anas luzonica,2
+92,琵嘴鸭,Shoveller,Anas clypeata,0
+93,针尾鸭,Pintail,Anas acuta,0
+94,白眉鸭 ,Garganey,Anas querquedula,2
+95,花脸鸭,Baikal Teal,Anas formosa,1
+96,绿翅鸭 ,Common Teal,Anas crecca,3
+97,云石斑鸭,Marbled Teal,Marmaronetta angustirostris,1
+98,赤嘴潜鸭,Red-crested Pochard,Rhodonessa rufina,3
+99,红头潜鸭,Common Pochard,Common Pochard,0
+100,帆背潜鸭,Canvasback,Aythya valisneria,2
+101,白眼潜鸭,White-eyed Pochard,Aythya nyroca,2
+102,青头潜鸭,Baer's Pochard,Aythya baeri,1
+103,凤头潜鸭,Tufted Duck,Aythya fuligula,3
+104,斑背潜鸭,Greater Scaup,Aythya marila,1
+105,小绒鸭,Steller's Eider,Polysticta stelleri,1
+106,丑鸭,Harlequin Duck,Histrionicus histrionicus,1
+107,长尾鸭,Long-tailed Duck,Clangula hyemalis,1
+108,黑海番鸭,Black Scoter,Melanitta nigra,1
+109,斑脸海番鸭 ,White-winged Scoter,Melanitta fusca,1
+110,鹊鸭,Common Goldeneye,Bucephala clangula,0
+111,白秋沙鸭,Smew,Mergellus albellus,2
+112,红胸秋沙鸭,Red-breasted Merganser,Mergus serrator,0
+113,中华秋沙鸭,Scaly-sided Merganser,Mergus squamatus,1
+114,普通秋沙鸭,Common Merganser,Mergus merganser,0
+115,林三趾鹑,Small Buttonquail,Turnix sylvatica,1
+116,黄脚三趾鹑,Yellow-legged Buttonquail,Turnix tanki,0
+117,棕三趾鹑,Barred Buttonquail,Turnix suscitator,0
+118,黄腰响蜜鴷,Yellow-rumped Honeyguide,Indicator xanthonotus,1
+119,蚁鴷,Eurasian Wryneck,Jynx torquilla,0
+120,斑姬啄木鸟,Speckled Piculet,Picumnus innominatus,2
+121,白眉棕啄木鸟,White-browed Piculet,Sasia ochracea,1
+122,星头啄木鸟,Grey-capped Woodpecker,Dendrocopos canicapillus,2
+123,小星头啄木鸟,Pygmy Woodpecker,Dendrocopos kizuki,2
+124,小斑啄木鸟,Lesser Spotted Woodpecker,Dendrocopos minor,0
+125,茶胸斑啄木鸟,Fulvous-breasted Woodpecker,Dendrocopos macei,0
+126,纹胸啄木鸟,Stripe-breasted Woodpecker,Dendrocopos atratus,1
+127,棕腹啄木鸟,Rufous-bellied Woodpecker,Dendrocopos hyperythrus,1
+128,赤胸啄木鸟,Crimson-breasted Woodpecker,Dendrocopos cathpharius,1
+129,黄颈啄木鸟,Darjeeling Woodpecker,Dendrocopos darjellensis,1
+130,白背啄木鸟,White-backed Woodpecker,Dendrocopos leucotos,0
+131,大斑啄木鸟,Great Spotted Woodpecker,Dendrocopos major,0
+132,白翅啄木鸟,White-winged Woodpecker,Dendrocopos leucopterus,2
+133,三趾啄木鸟,Three-toed Woodpecker,Picoides tridactylus,0
+134,栗啄木鸟,Rufous Woodpecker,Celeus brachyurus,0
+135,白腹黑啄木鸟,White-bellied Woodpecker,Dryocopus javensis,1
+136,黑啄木鸟,Black Woodpecker,Dryocopus martius,2
+137,黄冠啄木鸟,Lesser Yellownape,Picus chlorolophus,2
+138,大黄冠啄木鸟,Greater Yellownape,Picus flavinucha,1
+139,花腹绿啄木鸟,Laced Woodpecker,Picus vittatus,0
+140,鳞喉绿啄木鸟,Streak-throated Woodpecker,Picus xanthopygaeus,1
+141,鳞腹绿啄木鸟,Scaly-bellied Woodpecker,Picus squamatus,0
+142,红颈绿啄木鸟,Red-collared Woodpecker,Picus rabieri,0
+143,灰头绿啄木鸟,Grey-headed Woodpecker,Picus canus,2
+144,喜山金背三趾啄木鸟,Himalayan Flameback,Dinopium shorii,1
+145,金背三趾啄木鸟,Common Flameback,Dinopium javanense,2
+146,大金背啄木鸟,Greater Flameback,Chrysocolaptes lucidus,0
+147,竹啄木鸟 ,Pale-headed Woodpecker,Pale-headed Woodpecker,1
+148,黄嘴栗啄木鸟,Bay Woodpecker,Blythipicus pyrrhotis,1
+149,大灰啄木鸟,Great Slaty Woodpecker,Mulleripicus pulverulentus,1
+150,大拟啄木鸟,Greater Barbet,Megalaima virens,0
+151,[斑头]绿拟啄木鸟,Lineated Barbet,Megalaima lineata,0
+152,黄纹拟啄木鸟,Green-eared Barbet,Megalaima faiostricta,1
+153,金喉拟啄木鸟,Golden-throated Barbet,Megalaima franklinii,2
+154,黑眉拟啄木鸟,Black-browed Barbet,Megalaima oorti,0
+155,蓝喉拟啄木鸟,Blue-throated Barbet,Megalaima asiatica,0
+156,蓝耳拟啄木鸟,Blue-eared Barbet,Megalaima australis,0
+157,赤胸拟啄木鸟,Coppersmith Barbet,Megalaima haemacephala,2
+158,冠斑犀鸟,Oriental Pied Hornbill,Oriental Pied Hornbill,1
+159,双角犀鸟,Great Pied Hornbill,Buceros bicornis,1
+160,白喉犀鸟,White-throated Brown hornbill,Anorrhinus tickelli,1
+161,棕颈犀鸟,Rufous-necked Hornbill,Aceros nipalensis,1
+162,花冠皱盔犀鸟,Wreathed Hornbill,Aceros undulatus,1
+163,戴胜,Eurasian Hoopoe,Upupa epops,0
+164,橙胸咬鹃,Orange-breasted Trogon,Harpactes oreskios,1
+165,红头咬鹃,Red-headed Trogon,Harpactes erythrocephalus,1
+166,红腹咬鹃,Harpactes wardi,Harpactes wardi,1
+167,蓝胸佛法僧,European Roller,Coracias garrulus,1
+168,棕胸佛法僧,Indian Roller,Coracias benghalensis,2
+169,三宝鸟,Dollarbird,Eurystomus orientalis,2
+170,斑头大翠鸟,Blyth's Kingfisher,Alcedo hercules,0
+171,普通翠鸟,Common Kingfisher,Alcedo atthis,0
+172,蓝耳翠鸟,Blue-eared Kingfisher,Alcedo meninting,1
+173,三趾翠鸟,Three-toed Kingfisher,Ceyx erithacus,2
+174,鹳嘴翡翠 ,Stork-billed Kingfisher,Halcyon capensis,1
+175,赤翡翠 ,Ruddy Kingfisher,Halcyon coromanda,1
+176,白胸翡翠,White-throated Kingfisher,White-throated Kingfisher,0
+177,蓝翡翠,Black-capped Kingfisher,Halcyon pileata,0
+178,白领翡翠,Collared Kingfisher,Todirhamphus chloris,0
+179,冠鱼狗,Crested Kingfisher,Megaceryle lugubris,2
+180,斑鱼狗,Pied Kingfisher,,0
+181,[蓝须]夜蜂虎,Blue-bearded Bee-eater,,2
+182,绿喉蜂虎,Little Green Bee-eater,Merops orientalis,2
+183,蓝喉蜂虎 ,Blue-throated Bee-eater,Merops viridis,22
+184,栗喉蜂虎,Blue-tailed Bee-eater,Merops philippinus,0
+185,黄喉蜂虎,European Bee-eater,Merops apiaster,1
+186,栗头蜂虎,Chestnut-headed Bee-eater,Merops leschenaulti,0
+187,斑翅凤头鹃,Pied Cuckoo,Clamator jacobinus,1
+188,红翅凤头鹃,Chestnut-winged Cuckoo,Clamator coromandus,2
+189,鹰鹃,Large Hawk-Cuckoo,Hierococcyx sparverioides,2
+190,普通鹰鹃,Common Hawk Cuckoo,Hierococcyx varius,0
+191,棕腹杜鹃,Hodgson's Hawk-Cuckoo,Hierococcyx fugax,0
+192,四声杜鹃,Indian Cuckoo,Cuculus micropterus,0
+193,大杜鹃,Eurasian Cuckoo,Cuculus canorus,0
+194,中杜鹃,Oriental Cuckoo,Cuculus saturatus,0
+195,小杜鹃,Lesser Cuckoo,Cuculus poliocephalus,2
+196,栗斑杜鹃,Cuckoo Banded Bay,Cacomantis sonneratii,1
+197,八声杜鹃,Plaintive Cuckoo,Cacomantis merulinus,0
+198,翠金鹃,Asian Emerald Cuckoo,Chrysococcyx maculatus,2
+199,紫金鹃,Violet Cuckoo,Chrysococcyx xanthorhynchus,1
+200,乌鹃,Drongo Cuckoo,Surniculus lugubris,1
+201,噪鹃 ,Asian Koel,Eudynamys scolopacea,0
+202,绿嘴地鹃,Green-billed Malkoha,Phaenicophaeus tristis,0
+203,褐翅鸦鹃,Greater Coucal,Centropus sinensis,0
+204,小鸦鹃 ,Lesser Coucal,Centropus bengalensis,0
+205,彩虹鹦鹉,Rainbow Lorikeet,Trichoglossus haematodus,3
+206,小葵花凤头鹦鹉,Yellow-crested Cockatoo,Cacatua sulphurea,3
+207,短尾鹦鹉,Vernal Hanging-Parrot,Loriculus vernalis,2
+208,红领绿鹦鹉,Rose-ringed Parakeet,Psittacula krameri,0
+209,灰头鹦鹉,Slaty-headed Parakeet,Psittacula finschii,0
+210,花头鹦鹉,Blossom-headed Parakeet,Psittacula roseata,1
+211,大紫胸鹦鹉,Derby's Parakeet,Psittacula derbiana,3
+212,绯胸鹦鹉,Red-breasted Parakeet,Psittacula alexandri,1
+213,长尾鹦鹉,Long-tailed Parakeet,Psittacula longicauda,1
+214,短嘴金丝燕 ,Himalayan Swiftlet,Collocalia brevirostris,1
+215,戈氏金丝燕,Germain's Swiftlet,Collocalia germani,1
+216,白喉针尾雨燕,White-throated Needletail,Hirundapus caudacutus,0
+217,灰喉针尾雨燕,Silver-backed Needletail,Hirundapus cochinchinensis,0
+218,棕雨燕,Asian Palm swift,Cypsiurus balasiensis,0
+219,高山雨燕,Alpine Swift,Tachymarptis melba,1
+220,普通楼燕,Common Swift,Apus apus,1
+221,白腰雨燕,Fork-tailed Swift,Apus pacificus,0
+222,小白腰雨燕,HouseSwift,Apus affinis,0
+223,凤头树燕,Crested Treeswift,Hemiprocne coronata,1
+224,仓鸮,Barn Owl,Tyto alba,2
+225,草鸮,Grass Owl,Grass Owl,1
+226,栗鸮,Oriental Bay Owl,Phodilus badius,1
+227,黄嘴角鸮,Sptoted Scops Owl,Otus spilocephalus,1
+228,纵纹角鸮,Striated Scops Owl,Otus brucei,1
+229,红角鸮 ,Scops Owl,Otus scops,1
+230,东方角鸮 ,Oriental Scops Owl,Otus sunia,0
+231,琉球角鸮,Elegant Scops Owl,Otus bakkamoena,3
+232,领角鸮 ,Collared Scops Owl,Otus bakkamoena,0
+233,雕鸮,Eurasian Eagle Owl,Bubo bubo,2
+234,林雕鸮 ,Spot-bellied Eagle Owl,Bubo nipalensis,1
+235,乌雕鸮,Dusky Horned owl,Bubo coromandus,1
+236,毛腿渔鸮,Blakiston's Fish Owl,Ketupa blakistoni,1
+237,褐渔鸮,Brown Fish Owl,Ketupa zeylonensis,1
+238,黄脚渔鸮,Tawny Fish Owl,Ketupa flavipes,1
+239,雪鸮,Snowy Owl,Nyctea scandiaca,1
+240,褐林鸮,Brown Wood Owl,Brown Wood Owl,1
+241,灰林鸮,Tawny Wood Owl,Strix aluco,0
+242,长尾林鸮,Ural Owl,Strix uralensis,1
+243,四川林鸮,Sichuan Wood-owl,Strix davidi,1
+244,乌林鸮,Great Grey Owl,Strix nebulosa,1
+245,猛鸮,Northern Hawk Owl,Surnia ulula,1
+246,花头鸺鹠,Pigmy Owlet,Glaucidium passerinum,1
+247,领鸺鹠,Collared Owlet,Glaucidium brodiei,0
+248,斑头鸺鹠,Barred Owlet,Barred Owlet,3
+249,纵纹腹小鸮,Little Owl,Athene noctua,0
+250,横斑腹小鸮 ,Spotted Owlet,Athene brama,1
+251,鬼鸮,Tengalm's Owl,Aegolius funereus,1
+252,鹰鸮,Brown Hawk Owl,Ninox scutulata,2
+253,长耳鸮,Long-eared Owl,Asio otus,0
+254,短耳鸮,Short-eared Owl,Asio flammeus,2
+255,黑顶蟆口鸱,Hodgson's Frogmouth,Batrachostomus hodgsoni,1
+256,毛腿耳夜鹰,Great Eared Nightjar,Eurostopodus macrotis,2
+257,普通夜鹰,Grey Nightjar,Caprimulgus indicus,0
+258,欧夜鹰,Eurasian Nightjar,Caprimulgus europaeus,1
+259,埃及夜鹰,Egyptian Nightjar,Caprimulgus aegyptius,1
+260,中亚夜鹰,Vaurie's Nightjar,Caprimulgus centralasicus,1
+261,长尾夜鹰 ,Large-tailed Nightjar,Caprimulgus macrurus,0
+262,林夜鹰,Savannah Nightjar,Caprimulgus affinis,0
+263,原鸽,Rock Pigeon,Columba livia,0
+264,岩鸽,Hill Pigeon,Columba rupestris,0
+265,雪鸽,Snow Pigeon,Columba leuconota,0
+266,欧鸽,Stock Pigeon,Columba oenas,1
+267,中亚鸽,Yellow-eyed Pigeon,Columba eversmanni,1
+268,斑尾林鸽,Common Wood Pigeon,Columba palumbus,1
+269,点斑林鸽,Speckled Wood Pigeon,Columba hodgsonii,0
+270,灰林鸽,Ashy Wood Pigeon,Columba pulchricollis,1
+271,紫林鸽,Purple Wood Pigeon,Columba punicea,1
+272,黑林鸽,Japanese Wood Pigeon日本,Columba janthina,1
+273,欧斑鸠,Turtle Dove,Streptopelia turtur,0
+274,山斑鸠 ,Oriental Turtle Dove,Streptopelia orientalis,0
+275,棕斑鸠,Palm Dove,Streptopelia senegalensis,1
+276,珠颈斑鸠,Spotted Dove,Streptopelia chinensis,0
+277,火斑鸠 ,Red Collared Dove,Streptopelia tranquebarica,0
+278,灰斑鸠,Eurasian Collared Dove,Streptopelia decaocto,0
+279,斑尾鹃鸠,Bar-tailed Cuckoo Dove,Bar-tailed Cuckoo Dove,2
+280,栗褐鹃鸠,Brown Cuckoo Dove,Macropygia amboinensis,0
+281,棕头鹃鸠,Little Cuckoo Dove,Macropygia ruficeps,1
+282,绿翅金鸠,Emerald Dove,Chalcophaps indica,0
+283,橙胸绿鸠,Orange-breasted Green-Pig,Orange-breasted Green-Pig,1
+284,灰头绿鸠,Pompadour Green Pigeon,Treron pompadora,1
+285,厚嘴绿鸠,Thick-billed Green Pigeon,Treron curvirostra,1
+286,黄脚绿鸠,Yellow-footed Green-Pigeo,Treron phoenicoptera,1
+287,针尾绿鸠,Pin-tailed Green Pigeon,Treron apicauda,1
+288,楔尾绿鸠,Wedge-tailed Green Pigeon,Treron sphenura,1
+289,红翅绿鸠,White-bellied Green-Pigeo,Treron sieboldii,1
+290,红顶绿鸠,Whistling Green Pigeon,Treron formosae,2
+291,黑颏果鸠,Black-chinned Fruit Pigeon,Ptilinopus leclancheri,1
+292,绿皇鸠,Green Imperial Pigeon,Ducula aenea,1
+293,山皇鸠,Mountain Imperial Pigeon,Ducula badia,0
+294,小鸨,Little Bustard,Tetrax tetrax,1
+295,大鸨 ,Great Bustard,Otis tarda,0
+296,波斑鸨,McQueen's Bustard,Chlamydotis macqueeni,1
+297,白鹤,Siberian Crane,Grus leucogeranus,3
+298,赤颈鹤,Sarus Crane,Grus antigone,1
+299,白枕鹤,White-naped Crane,Grus vipio,3
+300,沙丘鹤,Sandhill Crane,Grus canadensis,3
+301,蓑羽鹤,Demoiselle Crane,Grus virgo,0
+302,灰鹤,Common Crane,Grus grus,1
+303,白头鹤,Hooded Crane,Grus monacha,2
+304,黑颈鹤,Black-necked Crane,Grus nigricollis,1
+305,丹顶鹤,Red-crowned Crane,Grus japonensis,1
+306,花田鸡,Swinhoe's Yellow Rail,Coturnicops exquisitus,1
+307,红腿斑秧鸡,Red-legged Crake,Rallina fasciata,2
+308,白喉斑秧鸡 ,Slaty-legged Crake,Rallina eurizonoides,2
+309,蓝胸秧鸡,Slaty-breasted Rail,Gallirallus striatus,2
+310,普通秧鸡,Water Rail,Rallus aquaticus,0
+311,长脚秧鸡,Corn Crake,Crex crex,1
+312,红脚苦恶鸟,Brown Crake,Amaurornis akool,0
+313,白胸苦恶鸟,White-breasted Waterhen,Amaurornis phoenicurus,0
+314,棕背田鸡,Rufous-backed Crake,Porzana bicolor,1
+315,姬田鸡,Little Crake,Porzana parva,1
+316,小田鸡,Baillon's Crake,Porzana pusilla,0
+317,斑胸田鸡,Spotted Crake,Porzana porzana,1
+318,红胸田鸡,Ruddy-breasted Crake,Porzana fusca,0
+319,斑胁田鸡,Band-bellied Crake,Porzana paykullii,2
+320,白眉田鸡,White-Browed Crake,Porzana cinerea,2
+321,董鸡,Watercock,Gallicrex cinerea,0
+322,紫水鸡,Purple Swamphen,Porphyrio porphyrio,0
+323,黑水鸡,Common Moorhen,Gallinula chloropus,0
+324,骨顶鸡,Common Coot,Fulica atra,0
+325,西藏毛腿沙鸡,Tibetan Sandgrouse,Syrrhaptes tibetanus,0
+326,毛腿沙鸡,Pallas's Sandgrouse,Syrrhaptes paradoxus,0
+327,黑腹沙鸡,Black-bellied Sandgrouse,Pterocles orientalis,1
+328,丘鹬,Eurasian Woodcock,Scolopax rusticola,0
+329,孤沙锥,Solitary Snipe,Gallinago solitaria,0
+330,澳南沙锥,Latham's Snipe,Gallinago hardwickii,1
+331,林沙锥,Wood Snipe,Gallinago nemoricola,1
+332,针尾沙锥,Pintail Snipe,Gallinago stenura,0
+333,大沙锥,Swinhoe's Snipe,Gallinago megala,0
+334,扇尾沙锥,Common Snipe,Gallinago gallinago,0
+335,姬鹬,Jack Snipe,Lymnocryptes minimus,1
+336,黑尾塍鹬,Black-tailed Godwit,Limosa limosa,0
+337,斑尾塍鹬,Bar-tailed Godwit,Limosa lapponica,0
+338,小杓鹬,Little Curlew,Numenius minutus,1
+339,中杓鹬,Whimbrel,Whimbrel,0
+340,白腰杓鹬 ,Eurasian Curlew,Numenius arquata,0
+341,大杓鹬,Far Eastern Curlew,Numenius madagascariensis,2
+342,鹤鹬,Spotted Redshank,Tringa erythropus,0
+343,红脚鹬,Common Redshank,Tringa totanus,0
+344,泽鹬,Marsh Sandpiper,Tringa stagnatilis,0
+345,青脚鹬,Common Greenshank,Tringa nebularia,0
+346,小青脚鹬 ,Spotted Greenshank,Tringa guttifer,1
+347,小黄脚鹬,Lesser Yellowlegs,Tringa flavipes,1
+348,白腰草鹬,Green Sandpiper,Tringa ochropus,2
+349,林鹬,Wood Sandpiper,Tringa glareola,0
+350,翘嘴鹬,Terek Sandpiper,Xenus cinerea,0
+351,矶鹬,Common Sandpiper,Actitis hypoleucos,0
+352,灰尾[漂]鹬,Grey-tailed Tattler,Heteroscelus brevipes,0
+353,漂鹬,Wandering Tattler,Heteroscelus incanus,1
+354,翻石鹬,Ruddy Turnstone,Arenaria interpres,0
+355,长嘴鹬,Long-billed Dowitcher,Limnodromus scolopaeus,1
+356,半蹼鹬,Asian Dowitcher,Limnodromus semipalmatus,0
+357,大滨鹬,Great Knot,Calidris tenuirostris,0
+358,红腹滨鹬,Red Knot,Calidris canutus,2
+359,三趾鹬,Sanderling,Calidris alba,0
+360,西方滨鹬,Western Sandpiper,Calidris mauri,2
+361,勺嘴鹬,Spoon-billed Sandpiper,Calidris pygmeus,1
+362,小滨鹬,Little Stint,Calidris minuta,1
+363,红颈滨鹬,Rufous-necked Stint,Calidris ruficollis,0
+364,青脚滨鹬 ,Temminck's Stint,Calidris temminckii,1
+365,长趾滨鹬,Long-toed Stint,Calidris subminuta,2
+366,白腰滨鹬,White-Rumped Sandpiper,Calidris fuscicollis,1
+367,黑腰滨鹬,Baird's Sandpiper,Calidris bairdii,1
+368,斑胸滨鹬,Pectoral Sandpiper,Calidris melanotos,1
+369,尖尾滨鹬,Sharp-tailed Sandpiper,Calidris acuminata,0
+370,岩滨鹬,Rock Sandpiper,Calidris ptilocnemis,2
+371,黑腹滨鹬,Dunlin,Calidris alpina,0
+372,弯嘴滨鹬,Curlew Sandpiper,Calidris ferruginea,2
+373,高跷鹬 ,Stilt Sandpiper,Micropalama himantopus,2
+374,饰胸鹬,Buff-Breasted Sandpiper,Tryngites subruficollis,2
+375,阔嘴鹬,Broad-billed Sandpiper,Limicola falcinellus,0
+376,流苏鹬,Ruff,Philomachus pugnax,1
+377,红颈瓣蹼鹬,Red-necked Phalarope,Phalaropus lobatus,1
+378,灰瓣蹼鹬,Red Phalarope,Phalaropus fulicaria,1
+379,彩鹬,Greater Painted-snipe,Rostratula benghalensis,0
+380,水雉,Pheasant-tailed Jacana,Hydrophasianus chirurgus,1
+381,铜翅水雉,Bronze-winged Jacana,Metopidius indicus,1
+382,欧石鸻,Eurasian Thick-knee,Burhinus oedicnemus,1
+383,大石鸻,Great Thick-knee,Esacus recurvirostris,1
+384,蛎鹬,Eurasian Oystercatcher,Haematopus ostralegus,2
+385,鹮嘴鹬,Ibisbill,Ibidorhyncha struthersii,1
+386,黑翅长脚鹬,Black-winged Stilt,Himantopus himantopus,0
+387,反嘴鹬,Pied Avocet,Recurvirostra avosetta,0
+388,金斑鸻,Pacific Golden Plover,Pacific Golden Plover,0
+389,灰斑鸻,Grey Plover,Pluvialis squatarola,0
+390,剑鸻,Common Ringed Plover,Charadrius hiaticula,2
+391,长嘴剑鸻,Long-billed Plover,Charadrius placidus,2
+392,金眶鸻,Little Ringed Plover,Charadrius dubius,0
+393,环颈鸻,Kentish Plover,Charadrius alexandrinus,0
+394,马来鸻,Malaysian Plover,Charadrius peronii,2
+395,蒙古沙鸻,Mongolian Plover,Charadrius mongolus,0
+396,铁嘴沙鸻,Greater Sand Plover,Charadrius leschenaultii,0
+397,红胸鸻,Caspian Plover,Charadrius asiaticus,1
+398,东方鸻,Oriental Plover,Charadrius veredus,2
+399,小嘴鸻,Eurasian Dotterel,Charadrius morinellus,1
+400,凤头麦鸡,Northern Lapwing,Vanellus vanellus,0
+401,距翅麦鸡,Spur-ainged Lapuiing,Vanellus duvaucelii,2
+402,灰头麦鸡,Grey-headed Lapwing,Vanellus cinereus,2
+403,肉垂麦鸡,Red-wattled Lapwing,Vanellus indicus,0
+404,领燕鸻,Collared Pratincole,Glareola pratincola,1
+405,普通燕鸻,Oriental Pratincole,Glareola maldivarum,0
+406,灰燕鸻,Small Pratincole,Small Pratincole,2
+407,褐贼鸥,Great Skua,Catharacta antarctica,2
+408,麦氏贼鸥,Great Skua,Catharacta maccormicki,2
+409,中贼鸥,Pomarine Jaeger,Stercorarius pomarinus,0
+410,短尾贼鸥,Parasitic Jaeger,Stercorarius parasiticus,2
+411,长尾贼鸥,Long-tailed Jaeger,Long-tailed Jaeger,1
+412,剪嘴鸥,Indian Skimmer,Rynchops albicollis,2
+413,黑尾鸥,Black-tailed Gull,Larus crassirostris,0
+414,海鸥,Mew Gull,Larus canus,0
+415,灰翅鸥,Glaucous-winged Gull,Larus glaucescens,1
+416,北极鸥,Glaucous Gull,Larus hyperboreus,2
+417,灰背鸥,Slaty-backed Gull,Larus schistisagus,0
+418,银鸥,Herring Gull,Larus argentatus,1
+419,灰林银鸥,Heuglin's Gull,Larus heuglini,0
+420,织女银鸥,Vega Gull,Larus vegae,0
+421,黄脚银鸥,Yellow-legged Gull,Larus cachinnans,0
+422,渔鸥,Pallas's Gull,Larus ichthyaetus,0
+423,棕头鸥,Brown-headed Gull,Larus brunnicephalus,3
+424,红嘴鸥,Common Black-headed Gull,Larus ridibundus,0
+425,细嘴鸥,Slender-billed Gull,Larus genei,2
+426,黑嘴鸥 ,Saunders's Gull,Saunders's Gull,1
+427,遗鸥,Relict Gull,Larus relictus,3
+428,小鸥,Little Gull,Larus minutus,1
+429,楔尾鸥,Ross's Gull,Ross's Gull,1
+430,叉尾鸥,Sabine's Gull,Xema sabini,1
+431,三趾鸥,Black-legged Kittiwake,Rissa tridactyla,1
+432,鸥嘴噪鸥 ,Gull-billed Tern,Gelochelidon nilotica,2
+433,红嘴巨鸥,Caspian Tern,Sterna caspia,2
+434,黄嘴河燕鸥,River Tern,Sterna aurantia,1
+435,小凤头燕鸥,Lesser Crested Tern,Sterna bengalensis,1
+436,大凤头燕鸥,Great Crested-Tern,Sterna bergii,3
+437,黑嘴端凤头燕鸥,Chinese Lesser Crested Tern,Sterna bernsteini,1
+438,粉红燕鸥,Roseate Ter,Sterna dougallii,1
+439,黑枕燕鸥,Black-naped Tern,Sterna sumatrana,2
+440,普通燕鸥,Common Tern,Sterna hirundo,0
+441,白额燕鸥,Little Tern,Sterna albifrons,0
+442,黑腹燕鸥 ,Black-bellied Tern,Sterna acuticauda,1
+443,白腰燕鸥,Aleutian Tern,Sterna aleutica,1
+444,褐翅燕鸥,Bridled Tern,Sterna anaethetus,0
+445,乌燕鸥,Sooty Tern,Sterna fuscata,2
+446,须浮鸥,Whiskered Tern,Chlidonias hybrida,0
+447,白翅浮鸥,White-winged Tern,Chlidonias leucoptera,2
+448,黑浮鸥 ,Black Tern,Chlidonias niger,1
+449,白顶玄燕鸥,Noddy Tern,Anous stolidus,3
+450,白玄鸥,White Tern,Gygis alba,1
+451,斑海雀,Marbled Murrelet,Brachyramphus marmoratus,1
+452,扁嘴海雀,Short-billed Guillemot,Synthliboramphus antiquus,2
+453,冠海雀,Japanese Murrelet,Synthliboramphus wumizusume,2
+454,角嘴海雀,Rhinoceros Auklet,Cerorhinca monocerata,1
+455,鹗,Osprey,Pandion haliaetus,1
+456,褐冠鹃隼,Jerdon's Baza,Aviceda jerdoni,1
+457,黑冠鹃隼,Black Baza,Aviceda leuphotes,3
+458,凤头蜂鹰,Oriental Honey-buzzard,Pernis ptilorhynchus,1
+459,黑翅鸢,Black-winged Kite,Elanus caeruleus,1
+460,黑鸢,Black Kite,Milvus migrans,0
+461,黑耳鸢,Black-eared Kite,Milvus lineatus,0
+462,栗鸢,Brahminy Kite,Haliastur indus,2
+463,白腹海雕,White-bellied Sea Eagle,Haliaeetus leucogaster,1
+464,玉带海雕,Pallas's Sea-Eagle,Haliaeetus leucoryphus,2
+465,白尾海雕 ,White-tailed Sea Eagle,Haliaeetus albicilla,2
+466,虎头海雕,Steller's Sea-eagle,Haliaeetus pelagicus,1
+467,渔雕,Lesser Fish-Eagle,Ichthyophaga humilis,1
+468,胡兀鹫,Lammergeier,Gypaetus barbatus,0
+469,白背兀鹫,White-rumped Vulture,Gyps bengalensis,1
+470,高山兀鹫,Himalayan Griffon,Gyps himalayensis,0
+471,兀鹫,Eurasian Griffon,Gyps fulvus,1
+472,秃鹫,Cinereous Vulture,Aegypius monachus,1
+473,黑兀鹫,Red-headed Vulture,Sarcogyps calvus,1
+474,短趾雕,Short-toed Snake-Eagle,Circaetus gallicus,1
+475,蛇雕,Crested Serpent-Eagle,Spilornis cheela,0
+476,白头鹞,Western Marsh-Harrier,Circus aeruginosus,2
+477,白腹鹞,Eastern Marsh-Harrier,Circus spilonotus,0
+478,白尾鹞,Northern Harrier,Circus cyaneus,0
+479,草原鹞,Pallid Harrier,Circus macrourus,1
+480,鹊鹞,Pied Harrier,Circus melanoleucos,0
+481,乌灰鹞,Montagu's Harrier,Circus pygargus,1
+482,凤头鹰,Crested Goshawk,Accipiter trivirgatus,3
+483,褐耳鹰,Shikra,Accipiter badius,1
+484,赤腹鹰,Chinese Sparrowhawk,Accipiter soloensis,0
+485,日本松雀鹰,Japanese Sparrowhawk,Accipiter gularis,0
+486,松雀鹰,Besra,Accipiter virgatus,2
+487,雀鹰,Eurasian Sparrowhawk,Accipiter nisus,0
+488,苍鹰 ,Northern Goshawk,Accipiter gentilis,0
+489,白眼鵟鹰,White-eyed Buzzard,Butastur teesa,1
+490,棕翅鵟鹰 ,Rufous-winged Buzzard,Butastur liventer,1
+491,灰脸鵟鹰,Grey-faced Buzzard Eagle,Butastur indicus,0
+492,普通鵟,Common Buzzard,Buteo buteo,0
+493,棕尾鵟,Long-legged Buzzard,Buteo rufinus,1
+494,大鵟,Upland Buzzard,Buteo hemilasius,0
+495,毛脚鵟,Rough-legged Buzzard,Buteo lagopus,1
+496,林雕,Black Eagle,Ictinaetus malayensis,1
+497,乌雕,Greater Spotted Eagle,Aquila clanga,2
+498,草原雕,Steppe Eagle,Aquila nipalensis,0
+499,白肩雕,Imperial Eagle,Aquila heliaca,2
+500,金雕,Golden Eagle,Aquila chrysaetos,2
+501,白腹隼雕,Bonelli's Hawk Eagle,Hieraaetus fasciata,2
+502,靴隼雕,Booted Eagle,Hieraaetus pennata,1
+503,棕腹隼雕,Rufous-bellied Hawk Eagle,Hieraaetus kienerii,1
+504,鹰雕,Mountain Hawk-Eagle,Spizaetus nipalensis,1
+505,红腿小隼,Collared Falconet,Microhierax caerulescens,1
+506,[白腿]小隼,Pied Falconet,Microhierax melanoleucos,2
+507,黄爪隼,Lesser Kestrel,Falco naumanni,2
+508,红隼,Common Kestrel,Falco tinnunculus,0
+509,红脚隼,Red-footed Falcon,Falco vespertinus,1
+510,阿穆尔隼,Amur Falcon,Falco amurebsis,0
+511,灰背隼,Merlin,Falco columbarius,2
+512,燕隼,Eurasian Hobby,Falco subbuteo,3
+513,猛隼,Oriental Hobby,Falco severus,1
+514,猎隼,Saker Falcon,Falco cherrug,2
+515,矛隼,Gyrfalcon,Falco rusticolus,1
+516,游隼,Peregrine Falcon,Falco peregrinus,2
+517,拟游隼,Barbary Falcon,Falco pelegrinoides,0
+518,小,Little Grebe,Tachybapus ruficollis,0
+519,赤颈,Red-necked Grebe,Tachybapus ruficollis,0
+520,凤头,Great Crested Grebe,Tachybapus ruficollis,0
+521,角,Horned Grebe,Tachybapus ruficollis,1
+522,黑颈,Black-necked Grebe,Tachybapus ruficollis,1
+523,短尾鹲 ,Short-Tailed Tropicbird,Phaethon aethereus,0
+524,红尾鹲,Red-tailed Tropicbird,Phaethon rubricauda,1
+525,白尾鹲,White-tailed Tropicbird,Phaethon lepturus,1
+526,蓝脸鲣鸟,Masked Booby,Sula dactylatra,0
+527,红脚鲣鸟,Red-footed Booby,Sula sula,0
+528,褐鲣鸟,Brown Booby,Sula leucogaster,0
+529,黑腹蛇鹈,Darter,Anhinga melanogaster,1
+530,黑颈鸬鹚,Pygmy cormorant,Phalacrocorax niger,1
+531,[普通]鸬鹚 ,Great Cormorant,Phalacrocorax carbo,3
+532,暗绿背鸬鹚,Temminck's Cormorant,Phalacrocorax capillatus,1
+533,红脸鸬鹚,Red-faced Cormorant,Phalacrocorax urile,1
+534,海鸬鹚,Sea Cormorant,Phalacrocorax pelagicus,2
+535,白鹭 ,Little Egret,Egretta garzetta,0
+536,黄嘴白鹭,Chinese Egret,Egretta eulophotes,1
+537,岩鹭,Reef Heron,Egretta sacra,2
+538,白颈黑鹭,Pied Heron,Egretta picatta,1
+539,苍鹭,Grey Heron,Ardea cinerea,0
+540,白腹鹭,White-Bellied Heron,Ardea insignis,2
+541,草鹭 ,Purple Heron,Ardea purpurea,0
+542,大白鹭,Large Egret,Casmerodius albus,0
+543,中白鹭,Intermediate Egret,Mesophoyx intermedia,0
+544,牛背鹭,Cattle Egret,Bubulcus ibis,0
+545,池鹭,Chinese Pond-Heron,Ardeola bacchus,0
+546,绿鹭,Striated Heron,Butorides striatus,0
+547,夜鹭,Black-crowned Night-Heron,Nycticorax nycticorax,0
+548,海南鳽,White-eared Night Heron,Gorsachius magnificus,1
+549,栗鳽,Japanese Night Heron,Gorsachius goisagi,1
+550,黑冠鳽,Tiger Bittern,Gorsachius melanolophus,1
+551,小苇鳽,Little Bittern,Ixobrychus minutus,1
+552,黄苇鳽,Yellow Bittern,Ixobrychus sinensis,0
+553,紫背苇鳽,Von Schrenck's Bittern,Ixobrychus eurhythmus,3
+554,栗苇鳽,Cinnamon Bittern,Ixobrychus cinnamomeus,0
+555,黑鳽,Black Bittern,Dupetor flavicollis,2
+556,大麻鳽,Great Bittern,Botaurus stellaris,1
+557,大火烈鸟[大红鹳],Greater Flamingo,Phoenicopterus ruber,1
+558,彩鹮,Glossy Ibis,Plegadis falcinellus,2
+559,[黑头]白鹮,White Ibis,Threskiornis melanocephalus,1
+560,黑鹮,White-shouldered Ibis,Pseudibis davisoni,1
+561,朱鹮,Crested Ibis,Nipponia nippon,1
+562,白琵鹭,White Spoonbill,Platalea leucorodia,2
+563,黑脸琵鹭,Black-faced Spoonbill,Platalea minor,1
+564,白鹈鹕,Great White Pelican,Pelecanus onocrotalus,1
+565,卷羽鹈鹕,Dalmatian Pelican,Pelecanus crispus,1
+566,斑嘴鹈鹕,Spot-billed philippensis,Pelecanus philippensis,1
+567,白头鹮鹳,Painted Stork,Mycteria leucocephala,1
+568,黑鹳,Black Stork,Ciconia nigra,1
+569,白鹳,White Stork,Ciconia ciconia,1
+570,东方白鹳,Oriental White Stork,Ciconia boyciana,2
+571,秃鹳,Lesser Adjutant,Leptoptilos javanicus,1
+572,小军舰鸟,Great Frigatebird,Fregata minor,3
+573,白斑军舰鸟,Lesser Frigatebird,Fregata ariel,1
+574,白腹军舰鸟 ,Christmas Island Frigatebird,Fregata andrewsi,2
+575,红喉潜鸟,Red-throated Loon,Gavia stellata,1
+576,黑喉潜鸟,Black-throated Loon,Gavia arctica,1
+577,太平洋潜鸟,Pacific Loon,Gavia pacifica,1
+578,普通潜鸟,Common Loon,Gavia immer,1
+579,白嘴潜鸟,Yellow-billed Loon,Gavia adamsii,1
+580,暴雪鹱,Northern Fulmar,Fulmarus glacialis,2
+581,钩嘴圆尾鹱,Tahiti Petrel,Pterodroma rostrata,2
+582,点额圆尾鹱,Bonin Petrel,Pterodroma hypoleuca,2
+583,纯褐鹱 ,Bulwer's Petrel,Bulweria bulwerii,1
+584,白额鹱,Streaked Shearwater,Calonectris leucomelas,3
+585,曳尾鹱,Wedge-tailed Shearwater,Puffinus pacificus,0
+586,肉足鹱,Flesh-Footed Shearwater,Puffinus carneipes,2
+587,灰鹱,Sooty Shearwater,Puffinus griseus,2
+588,短尾鹱,Short-tailed Shearwater,Puffinus tenuirostris,2
+589,短尾信天翁,Short-tailed Albatross,Diomedea albatrus,1
+590,黑脚信天翁,Black-footed Albatross,Diomedea nigripes,1
+591,黑背信天翁,Laysan Albatross,Diomedea immutabilis,1
+592,烟黑叉尾海燕,Wilson's Storm-Petrel,Oceanites oceanicus,2
+593,白腰叉尾海燕,Leach's Storm-Petrel,Oceanodroma leucorhoa,2
+594,黑叉尾海燕,Swinhoe's Storm-Petrel,Oceanodroma monorhis,2
+595,日本叉尾海燕,Matsudaira's Storm-Petrel,Oceanodroma matsudairae,2
+596,双辫八色鸫,Eared Pitta,Pitta phayrei,1
+597,蓝枕八色鸫,Blue-naped Pitta,Pitta nipalensis,2
+598,蓝背八色鸫,Blue-rumped Pitta,Pitta soror,1
+599,栗头八色鸫,Rusty-naped Pitta,Pitta oatesi,1
+600,蓝八色鸫,Blue Pitta,Pitta cyanea,1
+601,绿胸八色鸫,Hooded Pitta,Pitta sordida,1
+602,仙八色鸫,Fairy Pitta,Pitta nympha,2
+603,蓝翅八色鸫,Blue-winged Pitta,Pitta moluccensis,1
+604,银胸丝冠鸟,Silver-breasted Broadbill,Serilophus lunatus,2
+605,长尾阔嘴鸟,Long-tailed Broadbill,Psarisomus dalhousiae,2
+606,和平鸟,Asian Fairy-bluebird,Irena puella,0
+607,蓝翅叶鹎,Blue-winged Leafbird,Chloropsis cochinchinensis,0
+608,金额叶鹎,Golden-fronted Leafbird,Chloropsis aurifrons,0
+609,橙腹叶鹎,Orange-bellied Leafbird,Chloropsis hardwickii,0
+610,虎纹伯劳,Tiger Shrike,Lanius tigrinus,0
+611,牛头伯劳,Bull-headed Shrike,Lanius bucephalus,0
+612,红背伯劳,Red-backed Shrike,Lanius collurio,0
+613,棕尾伯劳,Rufous-tailed Shrike,Lanius isabellinus,0
+614,红尾伯劳,Brown Shrike,Lanius cristatus,0
+615,栗背伯劳,Burmese Shrike,Lanius collurioides,2
+616,棕背伯劳,Long-tailed Shrike,Lanius schach,0
+617,灰背伯劳,Grey-backed Shrike,Lanius tephronotus,0
+618,黑额伯劳,Lesser Grey Shrike,Lanius minor,1
+619,灰伯劳,Northern Shrike,Lanius excubitor,2
+620,楔尾伯劳,Chinese Grey Shrike,Lanius sphenocercus,0
+621,松鸦,Eurasian Jay,Garrulus glandarius,0
+622,北噪鸦,Siberian Jay,Perisoreus infaustus,2
+623,黑头噪鸦,Sichuan Jay,Perisoreus internigrans,2
+624,台湾蓝鹊,Taiwan Blue Magpie,Urocissa caerulea,3
+625,黄嘴蓝鹊,Yellow-billed Blue Magpie,Urocissa flavirostris,0
+626,红嘴蓝鹊,Red-billed Blue Magpie,Urocissa erythrorhyncha,0
+627,白翅蓝鹊 ,White-winged Magpie,Urocissa whiteheadi,2
+628,蓝绿鹊,Green Magpie,Cissa chinensis,1
+629,印支绿鹊,Short-tailed Magpie,Cissa hypoleuca,2
+630,灰喜鹊,Azure-winged Magpie,Cyanopica cyana,0
+631,棕腹树鹊,Rufous Treepie,Dendrocitta vagabunda,0
+632,灰树鹊,Grey Treepie,Dendrocitta formosae,0
+633,黑额树鹊,Collared Treepie,Dendrocitta frontalis,2
+634,盘尾树鹊,Racket-tailed Treepie,Crypsirina temia,1
+635,塔尾树鹊,Ratchet-tailed Treepie,Temnurus temnurus,1
+636,喜鹊,Black-billed Magpie,Pica pica,0
+637,黑尾地鸦,Mongolian Ground-Jay,Podoces hendersoni,0
+638,白尾地鸦,Xinjiang Ground-Jay,Podoces biddulphi,2
+639,褐背拟地鸦,Tibetan Ground-Jay,Pseudopodoces humilis,0
+640,星鸦,Spotted Nutcracker,Nucifraga caryocatactes,0
+641,红嘴山鸦,Red-billed Chough,Pyrrhocorax pyrrhocorax,0
+642,黄嘴山鸦,Yellow-billed Chough,Pyrrhocorax graculus,2
+643,寒鸦,Jackdaw,Corvus monedula,0
+644,达乌里寒鸦,Daurian Jackdaw,Corvus dauurica,0
+645,家鸦,House Crow,Corvus splendens,0
+646,秃鼻乌鸦 ,Rook,Corvus frugilegus,2
+647,小嘴乌鸦,Carrion Crow,Corvus corone,0
+648,大嘴乌鸦,Large-billed Crow,Corvus macrorhynchos,0
+649,丛林鸦,Jungle Crow,Corvus levaillantii,0
+650,白颈鸦,Collared Crow,Corvus torquatus,0
+651,渡鸦,Common Raven,Corvus corax,0
+652,灰燕鵙,Ashy Woodswallow,Artamus fuscus,0
+653,金黄鹂,Eurasian Golden-Oriole,Oriolus oriolus,2
+654,黑枕黄鹂,Black-naped Oriole,Oriolus chinensis,0
+655,细嘴黄鹂,Slender-billed Oriole,Oriolus tenuirostris,1
+656,黑头黄鹂,Black-hooded Oriole,Oriolus xanthornus,2
+657,朱鹂,Maroon Oriole,Oriolus traillii,1
+658,鹊色鹂,Silver Oriole,Oriolus mellianus,1
+659,大鹃鵙,Lmge Cuckooshrike,Coracina macei,0
+660,暗灰鹃鵙,Black-winged Cuckooshrike,Coracina melaschistos,1
+661,粉红山椒鸟,Rosy Minivet,Pericrocotus roseus,0
+662,小灰山椒鸟,Swinhoe's Minivet,Pericrocotus cantonensis,0
+663,灰山椒鸟 ,Ashy Minivet,Pericrocotus divaricatus,0
+664,灰喉山椒鸟,Grey-throated Winivet,Pericrocotus solaris,0
+665,长尾山椒鸟,Long-tailed Minivet,Pericrocotus ethologus,0
+666,短嘴山椒鸟,Short-billed Minivet,Pericrocotus brevirostris,2
+667,赤红山椒鸟,Scarlet Minivet,Pericrocotus flammeus,0
+668,褐背鹊鵙,Brown-backed pied shrike,Hemipus picatus,0
+669,黄腹扇尾鹟,Yellow-bellied Fantail,Rhipidura hypoxantha,2
+670,白喉扇尾鹟,White-throated Fantail,Rhipidura albicollis,0
+671,白眉扇尾鹟,White-browed Fantail,Rhipidura aureola,1
+672,黑卷尾,Black Drongo,Dicrurus macrocercus,0
+673,灰卷尾,Ashy Drongo,Dicrurus leucophaeus,0
+674,鸦嘴卷尾,Crow-biled Drongo,Dicrurus annectans,1
+675,古铜色卷尾,Bronzed Drongo,Dicrurus aeneus,0
+676,小盘尾,Lesser Racquet-tailed Drongo,Dicrurus remifer,0
+677,发冠卷尾,Spangled Drongo,Dicrurus hottentottus,0
+678,大盘尾,Greater Racket-tailed Drongo,Dicrurus paradiseus,0
+679,黑枕王鹟 ,Black-naped Monarch,Hypothymis azurea,0
+680,紫寿带[鸟],Japanese Paradise-Flycatcher,Terpsiphone atrocaudata,0
+681,寿带[鸟],Asian Paradise-Flycatcher,Terpsiphone paradisi,0
+682,黑翅雀鹎,Common Iora,Aegithina tiphia,0
+683,大绿雀鹎,Great Iora,Aegithina lafresnayei,3
+684,钩嘴林鵙 ,Large Woodshrike,Tephrodornis gularis,2
+685,太平鸟,Bohemian Waxwing,Bombycilla garrulus,2
+686,小太平鸟,Japanese Waxwing,Bombycilla japonica,2
+687,河乌,White-throated Dipper,Cinclus cinclus,0
+688,褐河乌,Brown Dipper,Cinclus pallasii,0
+689,白背矶鸫,Rufous-tailed Rock-Thrush,Monticola saxatilis,0
+690,蓝头矶鸫,Blue-capped Rock-Thrush,Monticola cinclorhynchus,1
+691,白喉矶鸫,White-throated Rock Thrush,Monticola gularis,0
+692,栗腹矶鸫,Chestnut-bellied RockThrush,Monticola rufiventris,0
+693,蓝矶鸫,Blue Rock-Thrush,Monticola solitarius,0
+694,紫啸鸫,Blue Whistling-Thrush,Myophonus caeruleus,0
+695,台湾紫啸鸫,TaiwanWhistling Thrush,Myophonus insularis,0
+696,橙头地鸫,Orange-headed Thrush,Zoothera citrina,2
+697,白眉地鸫,Siberian Thrush,Zoothera sibirica,2
+698,光背地鸫,Plain-backed Thrush,Zoothera mollissima,2
+699,长尾地鸫,Long-tailed Thrush,Zoothera dixoni,2
+700,虎斑地鸫,Scaly Thrush,Zoothera dauma,0
+701,灰背鸫,Grey-backed Thrush,Turdus hortulorum,0
+702,黑胸鸫,Black-breasted Thrush,Turdus dissimilis,0
+703,乌灰鸫,apanese Thrush,Turdus cardis,2
+704,白颈鸫,White-collared Blackbird,Turdus albocinctus,0
+705,灰翅鸫,Grey-winged Blackbird,Turdus boulboul,1
+706,乌鸫 ,Eurasian Blackbird,Turdus merula,0
+707,岛鸫,Island Thrush,Turdus poliocephalus,2
+708,灰头鸫,Grey-headcd Thrush,Turdus rubrocanus,0
+709,棕背黑头鸫,Kessler's Thrush,Turdus kessleri,1
+710,褐头鸫 ,Grey-sided Thrush,Turdus feae,1
+711,白眉鸫 ,Eyebrowed Thrush,Turdus obscurus,0
+712,槲鸫,Mistle Thrush,Turdus viscivorus,1
+713,白腹鸫,Pale Thrush,Turdus pallidus,0
+714,赤胸鸫,Brown-headed Thrush,Turdus chrysolaus,1
+715,赤颈鸫,Dark-throated Thrush,Turdus ruficollis,0
+716,斑鸫,Dusky Thrush,Turdus naumanni,0
+717,田鸫,Fieldfare,Turdus pilaris,1
+718,白眉歌鸫,Redwing,Turdus iliacus,1
+719,欧歌鸫,Song Thrush,Turdus philomelos,3
+720,宝兴歌鸫,Chinese Thrush,Turdus mupinensis,2
+721,栗背短翅鸫,Gould's Shortwing,Brachypteryx stellata,1
+722,锈腹短翅鸫 ,Rusty-bellied Shortwing,Brachypteryx hyperythra,1
+723,白喉短翅鸫,Lesser Shortwing,Brachypteryx leucophrys,0
+724,蓝短翅鸫,White-browed Shortwing,Brachypteryx montana,0
+725,白喉林鹟,White-gorgetted Jungle Flycatc,Rhinomyias brunneata,2
+726,斑鹟,Spotted Flycatcher,Muscicapa striata,1
+727,灰纹鹟,Grey-streaked Flycatcher,Muscicapa griseisticta,2
+728,乌鹟,Sooty Flycatcher,Muscicapa sibirica,0
+729,北灰鹟,Asian Brown Flycatcher,Muscicapa dauurica,0
+730,褐胸鹟,Brown-breasted Flycatcher,Muscicapa muttui,1
+731,棕尾褐鹟,Ferruginous Flycatcher,Muscicapa ferruginea,3
+732,白眉[姬]鹟,Yellow-rumped Flycatcher,Ficedula zanthopygia,0
+733,黄眉[姬]鹟,Narcissus Flycatcher,Ficedula narcissina,2
+734,鸲[姬]鹟,Mugimaki Flycatcher,Ficedula mugimaki,2
+735,锈胸蓝[姬]鹟,Slaty-backed Flycatcher,Ficedula hodgsonii,2
+736,橙胸[姬]鹟,Rufous-gorgeted Flycatche,Ficedula strophiata,0
+737,红喉[姬]鹟,Red-breasted Flycatcher,Ficedula parva,0
+738,白喉[姬]鹟,White-gorgeted Flycatcher,Ficedula monileger,1
+739,棕胸蓝[姬]鹟,Snowy-browed Flycatcher,Ficedula hyperythra,3
+740,小斑[姬]鹟,Little Pied Flycatcher,Ficedula westermanni,0
+741,白眉蓝[姬]鹟 ,Ultramarine Flycatcher,Ficedula superciliaris,2
+742,灰蓝[姬]鹟,Slaty-blueFlycatcher,Ficedula tricolor,3
+743,玉头[姬]鹟,Sapphire Flycatcher,Ficedula sapphira,1
+744,白腹[姬]鹟,Blue-and-white Flycatcher,Cyanoptila cyanomelana,2
+745,铜蓝鹟,Verditer Flycatcher,Eumyias thalassina,2
+746,大仙鹟,Large Niltava,Niltava grandis,2
+747,小仙鹟,Small Niltava,Niltava macgrigoriae,0
+748,棕腹大仙鹟,Fujian Niltava,Niltava davidi,0
+749,棕腹仙鹟,Rufous-bellied Niltava,Niltava sundara,2
+750,棕腹蓝仙鹟,Vivid Niltava,Niltava vivida,2
+751,白尾蓝仙鹟,White-tailed Flycatcher,Cyornis concretus,1
+752,海南蓝仙鹟,Hainan Blue-Flycatcher,Cyornis hainanus,0
+753,灰颊仙鹟,Pale-chinned Flycatcher,Cyornis poliogenys,2
+754,纯蓝仙鹟,Pale Blue Fltcatcher,Cyornis unicolor,2
+755,蓝喉仙鹟,Blue-throated Flycatcher,Cyornis rubeculoides,2
+756,山蓝仙鹟,Hill Blue-Flycatcher,Cyornis banyumas,1
+757,侏蓝仙鹟,Pygmy Blue-Flycatcher,Muscicapella hodgsoni,0
+758,方尾鹟,Grey-headed Canary-Flycat,Culicicapa ceylonensis,0
+759,欧亚鸲,European Robin,Erithacus rubecula,2
+760,[日本]歌鸲,Japanese Robin,Erithacus akahige,1
+761,琉球歌鸲,Ryukyu Robin,Ericthacus komadori,2
+762,红尾歌鸲,Common Nightingale,Luscinia sibilans,1
+763,新疆歌鸲,Common Nightingale,Luscinia megarhynchos,1
+764,"红点颏,红喉歌鸲",Siberian Rubythroat,Luscinia calliope,3
+765,黑胸歌鸲,White-tailed Rubythroat,Luscinia pectoralis,0
+766,蓝喉歌鸲[蓝点颏],Bluethroat,Luscinia svecica,0
+767,棕头歌鸲,Rufous-headed Robin,Luscinia ruficeps,3
+768,黑喉歌鸲,Blackthroated,Luscinia obscura,1
+769,金胸歌鸲,Firethroat,Luscinia pectardens,1
+770,栗腹歌鸲,Indian Blue Robin,Luscinia brunnea,1
+771,蓝歌鸲,Siberian Blue Robin,Luscinia cyane,0
+772,红胁蓝尾鸲,Orange-flanked Bush-Robin,Tarsiger cyanurus,0
+773,金色林鸲,Golden Bush-Robin,Tarsiger chrysaeus,1
+774,白眉林鸲,White-browed Bush-Robin,Tarsiger indicus,1
+775,棕腹林鸲,Rufous-breasted Bush Robi,Tarsiger hyperythrus,1
+776,台湾林鸲,Collared Bush-Robin,Tarsiger johnstoniae,0
+777,鹊鸲,Oriental Magpie-Robin,Copsychus saularis,0
+778,白腰鹊鸲,White-rumped Shama,Copsychus malabaricus,1
+779,贺兰山红尾鸲,Ala Shan Redstart,Phoenicurus alaschanicus,1
+780,红背红尾鸲,Rufous-backed Redstart,Phoenicurus erythronotus,1
+781,蓝头红尾鸲,Blue-capped Redstart,Phoenicurus caeruleocephalus,1
+782,赭红尾鸲,Black Redstart,Phoenicurus ochruros,0
+783,欧亚红尾鸲,Common Redstart,Phoenicurus phoenicurus,0
+784,黑喉红尾鸲,Hodgson's Redstart,Phoenicurus hodgsoni,0
+785,白喉红尾鸲,White-throated Redstart,Phoenicurus schisticeps,0
+786,北红尾鸲,Daurian Redstart,Phoenicurus auroreus,0
+787,红腹红尾鸲,White-winged Redstart,Phoenicurus erythrogaster,0
+788,蓝额红尾鸲,Blue-fronted Redstart,Phoenicurus frontalis,0
+789,白顶溪鸲,White-capped Water-Redstart,Chaimarrornis leucocephalus,0
+790,红尾水鸲,Plumbeous Water-Redstart,Rhyacornis fuliginosus,0
+791,白腹短翅鸲,White-bellied Redstart,Hodgsonius phoenicuroides,0
+792,白尾蓝[地]鸲,White-tailed Robin,Myiomela leucurum,0
+793,蓝额[长脚]地鸲,Blue-fronted Robin,Cinclidium frontale,1
+794,蓝大翅鸲,Grandala,Grandala coelicolor,1
+795,小燕尾,Little Forktail,Enicurus scouleri,0
+796,黑背燕尾,Black-backed Forktail,Enicurus immaculatus,1
+797,灰背燕尾,Slaty-backed Forktail,Enicurus schistaceus,0
+798,白冠燕尾,White-crowned Forktail,Enicurus leschenaulti,0
+799,斑背燕尾,Spotted Forktail,Enicurus maculatus,0
+800,紫宽嘴鸫,Purple Cochoa,Cochoa purpurea,0
+801,绿宽嘴鸫,Green Cochoa,Cochoa viridis,1
+802,绿宽嘴鸫,Green Cochoa,Cochoa viridis,1
+803,白喉石鵖,White-throated Bushchat,Saxicola insignis,1
+804,黑喉石鵖,Common Stonechat,Saxicola torquata,0
+805,白斑黑石鵖,Pied Bushchat,Saxicola caprata,2
+806,黑白林鵖,Jerdon's Bushchat,Saxicola jerdoni,1
+807,灰林鵖,Grey Bushchat,Saxicola ferrea,0
+808,穗鵖,Northern Wheatear,Oenanthe oenanthe,0
+809,[东方]斑鵖,Variable Wheatear,Oenanthe picata,2
+810,白顶鵖,Pied Wheatear,Oenanthe pleschanka,0
+811,漠鵖,Desert Wheatear,Oenanthe deserti,0
+812,沙鵖,Isabelline Wheatear,Oenanthe isabellina,0
+813,灰头椋鸟,Chestnut-tailed Starling,Sturnus malabaricus,2
+814,黑冠椋鸟,Brahminy Starling,Sturnus pagodarum,2
+815,丝光椋鸟,Silky stanling,Sturnus sericeus,0
+816,北椋鸟,Purple-backed Starling,Sturnus sturninus,1
+817,紫背椋鸟,Chestnut-cheeked Starling,Sturnus philippensis,2
+818,灰背椋鸟,White-shouldered Starling,Sturnus sinensis,0
+819,粉红椋鸟,Rosy Starling,Sturnus roseus,0
+820,紫翅椋鸟,Common Starling,Sturnus vulgaris,0
+821,灰椋鸟,White-cheeked Starling,Sturnus cineraceus,0
+822,斑椋鸟,Asian Pied Starling,Sturnus contra,0
+823,黑领椋鸟,Black-collared Starling,Sturnus nigricollis,0
+824,红嘴椋鸟,Vinous-breasted Starling,Sturnus burmannicus,1
+825,家八哥,Common Myna,Acridotheres tristis,0
+826,灰背岸八哥,Bank Myna,Acridotheres ginginianus,1
+827,林八哥,White-vented Myna,Acridotheres cinereus,1
+828,白领八哥,Collared Myna,Acridotheres albocinctus,0
+829,八哥,Crested Myna,Acridotheres cristatellus,0
+830,金冠树八哥 ,Golden-crested Myna,Ampeliceps coronatus,2
+831,鹩哥,Hill Myna,Gracula religiosa,3
+832,普通,Eurasion Nuthatch,Sitta europaea,0
+833,栗臀,Chestnut-vented Nuthatch,Sitta nagaensis,0
+834,栗腹,Chestnut-bellied Nuthatch,Sitta castanea,1
+835,白尾,White-tailed Nuthatch,Sitta himalayensis,1
+836,黑头,Snowy-browed Nuthatch,Sitta villosa,1
+837,滇,Yunnan Nuthatch,Sitta yunnanensis,1
+838,白脸,White-cheeked Nuthatch,Sitta leucopsis,1
+839,绒额 ,Velvet-fronted Nuthatch,Sitta frontalis,0
+840,淡紫,Yellow-billed Nuthatch,Sitta solangiae,3
+841,巨,Giant Nuthatch,Sitta magna,2
+842,丽,Beautiful Nuthatch,Sitta formosa,1
+843,红翅旋壁雀,Wallcreeper,Tichodroma muraria,1
+844,旋木雀,Eurasian Tree-Creeper,Certhia familiaris,0
+845,高山旋木雀,Bar-tailed Tree-Creeper,Certhia himalayana,2
+846,锈红腹旋木雀,Rusty-flanked Treecreeper,Certhia nipalensis,0
+847,褐喉旋木雀,Brown-throated Treecreeper,Certhia discolor,1
+848,鹪鹩,Wren,Troglodytes troglodytes,0
+849,白冠攀雀,White-erowned penduline Tit,Remiz coronatus,1
+850,中华攀雀,Chinese Penduline Tit,Remiz consobrinus,0
+851,火冠雀,Fire-capped Tit,Cephalopyrus flammiceps,3
+852,沼泽山雀,Marsh Tit,Parus palustris,0
+853,褐头山雀,Willow Tit,Parus montanus,0
+854,白眉山雀,White-browed Tit,Parus superciliosus,3
+855,红腹山雀,Rusty-breasted Tit,Parus davidi,2
+856,西伯利亚山雀,Siberian Tit,Parus cinctus,1
+857,棕枕山雀,Rufous-naped Tit,Parus rufonuchalis,1
+858,黑冠山雀,Rufous-vented Tit,Parus rubidiventris,1
+859,煤山雀,Coal Tit,Parus ater,0
+860,黄腹山雀,Yellow-bellied Tit,Parus venustulus,0
+861,褐冠山雀,Grey-crested Tit,Parus dichrous,0
+862,大山雀,Great Tit,Parus major,0
+863,西域山雀,Turkestan Tit,Parus bokharensis,2
+864,绿背山雀,Green-backed Tit,Parus monticolus,0
+865,黄颊山雀,Yellow-cheeked Tit,Parus spilonotus,0
+866,台湾黄山雀,Yellow Tit,Parus holsti,1
+867,灰蓝山雀,Azure Tit,Parus cyanus,0
+868,黄胸山雀,Yellow-breasted Tit,Parus flavipectus,2
+869,杂色山雀,Varied Tit,Parus varius,1
+870,黄眉林雀,Yellow-browed Tit,Sylviparus modestus,0
+871,冕雀,Sultan Tit,Melanochlora sultanea,2
+872,银喉[长尾]山雀,Long-tailed Tit,Aegithalos caudatus,0
+873,红头[长尾]山雀,Black-throated Tit,Aegithalos concinnus,0
+874,黑头[长尾]山雀,Rufous-fronted Tit,Aegithalos iouschistos,0
+875,黑眉[长尾]山雀,Black-browed Tit,Aegithalos bonvalotis,0
+876,银脸[长尾]山雀,Sooty Tit,Aegithalos fuliginosus,1
+877,白眼河燕,White-eyed River Martin,Pseudochelidon sirintarae,1
+878,崖沙燕,Sand Martin,Riparia riparia,0
+879,褐喉沙燕,Plain Martin,Riparia paludicola,0
+880,岩燕 ,Eurasian Crag-Martin,Hirundo rupestris,1
+881,纯色岩燕,Dusky Crag-Martin,Hirundo concolor,1
+882,家燕,Barn Swallow,Hirundo rustica,0
+883,洋斑燕,Pacific Swallow,Hirundo tahitica,0
+884,金腰燕 ,Red-rumped Swallow,Hirundo daurica,0
+885,斑腰燕 ,Striated Swallow,Hirundo striolata,0
+886,[白腹]毛脚燕,Northern House-Martin,Delichon urbica,0
+887,烟腹毛脚燕,Asian House-Martin,Delichon dasypus,0
+888,黑喉毛脚燕,Nepal House-Martin,Delichon nipalensis,1
+889,戴菊,Goldcrest,Regulus regulus,0
+890,台湾戴菊,Flamecrest,Regulus goodfellowi,0
+891,凤头雀嘴鹎,Crested Finchbill,Spizixos canifrons,0
+892,领雀嘴鹎,Collared Finchbill,Spizixos semitorques,0
+893,纵纹绿鹎,Striated Bulbul,Pycnonotus striatus,1
+894,黑头鹎,Black-headed Bulbul,Pycnonotus atriceps,1
+895,黑冠黄鹎,Black-crested Bulbul,Pycnonotus melanicterus,0
+896,红耳鹎,Red-whiskered Bulbul,Pycnonotus jocosus,0
+897,黄臀鹎,Brown-breasted Bulbul,Pycnonotus xanthorrhous,0
+898,白头鹎,Light-vented Bulbul,Pycnonotus sinensis,0
+899,台湾鹎,Tavaau Bulbul,Pycnonotus taivanus,2
+900,白颊鹎,Himalayan Bulbul,Pycnonotus leucogenys,1
+901,黑喉红臀鹎,Red-vented Bulbul,Pycnonotus cafer,0
+902,白喉红臀鹎,Sooty-headed Bulbul,Pycnonotus aurigaster,0
+903,纹喉鹎,Stripe-throated Bulbul,Pycnonotus finlaysoni,1
+904,黄绿鹎,Flavescent Bulbul,Pycnonotus flavescens,3
+905,黄腹冠鹎,Yellow-bcllied Bulbul,Alophoixus flaveolus,2
+906,白喉冠鹎,White claroated Bulbul,Alophoixus pallidus,0
+907,灰眼短脚鹎,Grey-eyed Bulbul,Iole propinqua,0
+908,栗耳[短脚]鹎,Brown-eared Bulbul,Ixos amaurotis,0
+909,灰短脚鹎,Ashy Bulbul,Hemixos flavala,0
+910,栗背短脚鹎,Chestnut Bulbul,Hemixos castanonotus,0
+911,绿翅短脚鹎,Mountain Bulbul,Hypsipetes mcclellandii,0
+912,黑[短脚]鹎,Madagascar Bulbul,Hypsipetes leucocephalus,0
+913,棕扇尾莺,Zitting Cisticola,Cisticola juncidis,0
+914,金头扇尾莺,Gololeu-tuaded Fautail Walolcr,Cisticola exilis,0
+915,山鹛,White-browed Chinese Warb,Rhopophilus pekinensi,1
+916,山鹪莺,Striated Prinia,Prinia criniger,0
+917,褐山鹪莺,Brown Prinia,Prinia polychroa,2
+918,黑喉山鹪莺,Hill Prinia,Prinia atrogularis,0
+919,暗冕鹪莺,Rufescent Prinia,Prinia rufescens,0
+920,灰胸鹪莺,Grey-breasted Prinia,Prinia hodgsonii,0
+921,黄腹鹪莺,Yellow-bellied Prinia,Prinia flaviventris,0
+922,褐头鹪莺,Plain Prinia,Prinia inornata,0
+923,红胁绣眼鸟,Chestnut-flanked White-ey,Zosterops erythropleurus,0
+924,灰腹绣眼鸟,Oriental White-eye,Zosterops palpebrosus,0
+925,暗绿绣眼鸟,Japanese White-eye,Zosterops japonicus,0
+926,栗头地莺,Chestnut-headed Tesia,Tesia castaneocoronata,0
+927,金冠地莺,Slaty-bellied Tesia,Tesia olivea,0
+928,灰腹地莺,Grey-bellied Tesia,Tesia cyaniventer,0
+929,鳞头树莺,Asian Stubtail,Urosphena squameiceps,0
+930,淡脚树莺,Pale-footed Bush-Warbler,Cettia pallidipes,0
+931,远东树莺,Manchurian Bush Warbler,Cettia canturians,0
+932,日本树莺,Japanese Bush-Warbler,Cettia diphone,0
+933,强脚树莺,Brownish-flanked Bush-War,Cettia fortipes,0
+934,大树莺,Chestnut-crowned Bush-War,Cettia major,1
+935,异色树莺,Aberrant Bush-Warbler,Cettia flavolivaceus,1
+936,黄腹树莺,Yellowish-bellied Bush Warbler,Cettia acanthizoides,0
+937,棕顶树莺,Grey-sided Bush-Warbler,Cettia brunnifrons,2
+938,宽尾树莺,Cetti's Warbler,Cettia cetti,1
+939,斑胸短翅莺,Spotted Bush-Warbler,Bradypterus thoracicus,0
+940,巨嘴短翅莺,Long-billed Bush-Warbler,Bradypterus major,1
+941,中华短翅莺,Chinese BushWarbler,Bradypterus tacsanowskius,0
+942,棕褐短翅莺,Brown Bush-Warbler,Bradypterus luteoventris,0
+943,高山短翅莺,Russet Bush-Warbler,Bradypterus seebohmi,0
+944,矛斑蝗莺,Lanceolated Warbler,Locustella lanceolata,2
+945,黑斑蝗莺,Grasshopper Warbler,Locustella naevia,1
+946,小蝗莺 ,Rusty-rumped Warbler,Locustella certhiola,2
+947,北蝗莺,Middendorff's Warbler,Locustella ochotensis,1
+948,史氏蝗莺,Pleske's Warbler,Locustella pleskei,2
+949,鸲蝗莺,Savi's Warbler,Locustella luscinioides,2
+950,苍眉蝗莺,Gray's Warbler,Locustella fasciolata,2
+951,斑背大尾莺,Stuak-bachel Suamp Wabler,Locustella pryeri,1
+952,水蒲苇莺,Sedge Warbler,Acrocephalus schoenobaenus,1
+953,细纹苇莺,Streaked Reed-Warbler,Acrocephalus sorghophilus,1
+954,黑眉苇莺,Black-browed Reed Warbler,Acrocephalus bistrigiceps,0
+955,稻田苇莺,Paddyfield Warbler,Acrocephalus agricola,2
+956,远东苇莺,Manchurian Reed Warbler,Acrocephalus tangorum,2
+957,钝翅[稻田]苇莺,Blunt-winged Warbler,Acrocephalus concinens,2
+958,芦苇莺,Eurasian Reed-Warbler,Acrocephalus scirpaceus,2
+959,布氏苇莺,Blyth's Reed Warbler,Acrocephalus dumetorum,2
+960,大苇莺,Great Reed-Warbler,Acrocephalus arundinaceus,0
+961,东方大苇莺,Oriental Reed Warbler,Acrocephalus orientalis,0
+962,噪大苇莺,Clamorous Reed-Warbler,Acrocephalus stentoreus,0
+963,厚嘴苇莺 ,Thick-billed Warbler,Acrocephalus aedon,2
+964,靴篱莺,Booted Warbler,Hippolais caligata,1
+965,赛氏篱莺 ,Sykes's Warbler,Hippolais rama,1
+966,草绿篱莺,Olivaceous Warbler,Hippolais pallida,1
+967,金头缝叶莺,Mountain Tailorbird,Orthotomus cuculatus,3
+968,长尾缝叶莺,Common Tailorbird,Orthotomus sutorius,0
+969,黑喉缝叶莺 ,Dark-necked Tailorbird,Orthotomus atrogularis,0
+970,花彩雀莺,White-browed Tit-Warbler,Leptopoecile sophiae,1
+971,凤头雀莺 ,Crested Tit Warbler,Leptopoecile elegans,2
+972,叽咋柳莺,Common Chiffchaff,Phylloscopus collybita,2
+973,东方叽咋柳莺,Mountain Chiffchaff,Phylloscopus sindianus,2
+974,林柳莺,Wood Warbler,Phylloscopus sibilatrix,2
+975,褐柳莺,Dusky Warbler,Phylloscopus fuscatus,0
+976,烟柳莺 ,Smoky Warbler,Phylloscopus fuligiventer,2
+977,黄腹柳莺,Tickell's Leaf Warbler,Phylloscopus affinis,0
+978,棕腹柳莺,Buff-throated Warbler,Phylloscopus subaffinis,2
+979,灰柳莺,Sulphur-bellied Warbler,Phylloscopus griseolus,1
+980,棕眉柳莺,Yellow-streaked Warbler,Phylloscopus armandii,2
+981,巨嘴柳莺,Radde's Warbler,Phylloscopus schwarzi,0
+982,橙斑翅柳莺,Orange-barred Warbler,Phylloscopus pulcher,0
+983,灰喉柳莺,Ashy-throated Warbler,Phylloscopus maculipennis,2
+984,黄腰柳莺 ,Yellow-rumped Warbler,Phylloscopus proregulus,0
+985,淡黄腰柳莺,Lemon-rumped Warbler,Phylloscopus chloronotus,0
+986,甘肃[黄腰]柳莺,Gansu Leaf Warbler,Phylloscopus kansuensis,1
+987,四川柳莺,Sichuan Leaf-Warbler,Phylloscopus sichuanensis,2
+988,黄眉柳莺,Yellow-browed Warbler,Phylloscopus inornatus,0
+989,淡眉柳莺,Hume's Warbler,Phylloscopus humei,0
+990,极北柳莺,Arctic Warbler,Phylloscopus borealis,0
+991,暗绿柳莺,Greenish Warbler,Phylloscopus trochiloides,0
+992,双斑绿柳莺,Two-barredWarbler,Phylloscopus plumbeitarsus,0
+993,灰脚柳莺,Pale-legged Warbler,Phylloscopus tenellipes,1
+994,乌嘴柳莺,Large-billed Warbler,Phylloscopus magnirostris,1
+995,冕柳莺,Eastern Crowned Warbler,Phylloscopus coronatus,0
+996,峨眉柳莺,Emei Leaf Warbler,Phylloscopus emeiensis,1
+997,冠纹柳莺,Blyth's Leaf-Warbler,Phylloscopus reguloides,0
+998,白斑尾柳莺,White-tailed Leaf-Warbler,Phylloscopus davisoni,2
+999,海南柳莺 ,Hainan Leaf Warbler,Phylloscopus hainanus,0
+1000,黄胸柳莺,Yellow-vented Warbler,Phylloscopus cantator,1
+1001,黑眉柳莺,Sulphur-breasted Warbler,Phylloscopus ricketti,2
+1002,金眶鹟莺,Golden-spectacled Warbler,Seicercus burkii,2
+1003,灰头鹟莺,Grey-hooded Warbler,Seicercus xanthoschistos,0
+1004,白眶鹟莺,White-spectacled Warbler,Seicercus affinis,2
+1005,灰脸鹟莺,Grey-cheeked Warbler,Seicercus poliogenys,1
+1006,栗头鹟莺,Chestnut-crowned Warbler,Seicercus castaniceps,2
+1007,宽嘴鹟莺,Broad-billed Warbler,Tickellia hodgsoni,1
+1008,棕脸鹟莺,Rufous-faced Warbler,Abroscopus albogularis,0
+1009,黑脸鹟莺,Black-faced Warbler,Abroscopus schisticeps,1
+1010,黄腹鹟莺,Yellow-bellied Warbler,Abroscopus superciliaris,0
+1011,沼泽大尾莺,Striated Grassbird,Megalurus palustris,2
+1012,大草莺,Rufous-rumped Grassbird,Graminicola bengalensis,1
+1013,黑脸噪鹛,Masked Laughingthrush,Garrulax perspicillatus,0
+1014,白喉噪鹛,White-throated Laughingth,Garrulax albogularis,0
+1015,白冠噪鹛,White-crested Laughingthr,Garrulax leucolophus,0
+1016,小黑领噪鹛,Lesser Necklaced Laughingthrus,Garrulax monileger,0
+1017,黑领噪鹛,Greater Necklaced Laughingthru,Garrulax pectoralis,0
+1018,条纹噪鹛,Striated Laughingthrush,Garrulax striatus,1
+1019,白颈噪鹛,White-necked Laughingthrush,Garrulax strepitans,1
+1020,褐胸噪鹛,Grey Laughingthrush,Garrulax maesi,2
+1021,栗颈噪鹛,Rufous-necked Laughingthrush,Garrulax ruficollis,2
+1022,黑喉噪鹛,Black-throated Laughingthrush,Garrulax chinensis,0
+1023,黄喉噪鹛,Yellow-throated Laughingthrush,Garrulax galbanus,1
+1024,栗臀噪鹛,Rufous-vented Laughingthrush,Garrulax gularis,1
+1025,山噪鹛,Plain Laughingthrush,Garrulax davidi,2
+1026,黑额山噪鹛,Sukatschev's Laughing thrush,Garrulax sukatschewi,1
+1027,灰翅噪鹛,Moustached Laughingthrush,Garrulax cineraceus,3
+1028,棕颏噪鹛,Rufous-chinned Laughingthrush,Garrulax rufogularis,0
+1029,斑背噪鹛,Barred Laughingthrush,Garrulax lunulatus,2
+1030,白点鹛,White-speckled Laughingthrush,Garrulax bieti,2
+1031,大噪鹛,Giant Laughingthrush,Garrulax maximus,0
+1032,眼纹噪鹛,Spotted Laughingthrush,Garrulax ocellatus,0
+1033,灰胁噪鹛,Grey-sided Laughingthrush,Garrulax caerulatus,1
+1034,棕噪鹛,Rusty Laughingthrush,Garrulax poecilorhynchus,1
+1035,斑胸噪鹛,Spot-breasted Laughingthrush,Garrulax merulinus,1
+1036,画眉,Hwamei,Garrulax canorus,0
+1037,白颊噪鹛,White-browed Laughingthrush,Garrulax sannio,0
+1038,细纹噪鹛,Streaked Laughingthrush,Garrulax lineatus,0
+1039,蓝翅噪鹛,Blue-winged Laughingthrush,Garrulax squamatus,1
+1040,纯色噪鹛 ,Scaly Laughingthrush,Garrulax subunicolor,0
+1041,橙翅噪鹛,Elliot's Laughingthrush,Garrulax elliotii,0
+1042,杂色噪鹛,Variegated Laughingthrush,Garrulax variegatus,1
+1043,灰腹噪鹛,Brown-cheeked Laughingthrush,Garrulax henrici,0
+1044,黑顶噪鹛,Black-faced Laughingthrush,Garrulax affinis,2
+1045,玉山噪鹛,White-whiskered Laughingthrush,Garrulax morrisonianus,0
+1046,红头噪鹛,Chestnut-crowned Laughingthrus,Garrulax erythrocephalus,1
+1047,丽色噪鹛,Red-winged Laughingthrush,Garrulax formosus,1
+1048,赤尾噪鹛,Red-tailed Laughingthrush,Garrulax milnei,2
+1049,红翅薮鹛,Red-faced Liocichla,Liocichla phoenicea,1
+1050,灰胸薮鹛,Omei Shan Liocichla,Liocichla omeiensis,2
+1051,黄痣薮鹛,Steere's Liocichla,Liocichla steerii,0
+1052,棕胸雅鹛 ,Buff-breasted Babbler,Pellorneum tickelli,0
+1053,白腹幽鹛,Spot-throated Babbler,Pellorneum albiventre,1
+1054,棕头幽鹛,Puff-throated Babbler,Pellorneum ruficeps,0
+1055,长嘴钩嘴鹛,Large Scimitar-Babbler,Pomatorhinus hypoleucos,1
+1056,斑胸钩嘴鹛,Spot-breated Scimitar Babbler,Pomatorhinus erythrocnemis,0
+1057,锈脸钩嘴鹛,Rusty-cheeked Scimitar-Ba,Pomatorhinus erythrogenys,1
+1058,灰头钩嘴鹛,White-browed Scimitar Babbler,Pomatorhinus schisticeps,1
+1059,棕颈钩嘴鹛,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,0
+1060,棕头钩嘴鹛,Red-billed Scimitar-Babbl,Pomatorhinus ochraceiceps,2
+1061,红嘴钩嘴鹛,Coral-billed Scimitar-Bab,Pomatorhinus ferruginosus,1
+1062,剑嘴鹛,Slender-billed Scimitar-B,Xiphirhynchus superciliaris,1
+1063,长嘴鹩鹛,Long-billed Wren-babbler,Rimator malacoptilus,2
+1064,灰岩鹪鹛,Limestone Wren-Babbler,Napothera crispifrons,2
+1065,短尾鹪鹛,Streaked Wren-Babbler,Napothera brevicaudata,2
+1066,纹胸鹪鹛 ,Eyebrowed Wren-Babbler,Napothera epilepidota,3
+1067,鳞胸鹪鹛,Scaly-breasted Wren-Babbl,Pnoepyga albiventer,2
+1068,小鳞[胸]鹪鹛,Pygmy Wren-Babbler,Pnoepyga pusilla,0
+1069,短尾鹩鹛,Rufous-throated Wren Babbler,Spelaeornis caudatus,1
+1070,锈喉鹩鹛,Rusty-throated Wren Babbler,Spelaeornis badeigularis,1
+1071,斑翅鹩鹛,Bar-winged Wren-Babbler,Spelaeornis troglodytoides,1
+1072,丽星鹩鹛,Spotted Wren Babbler,Spelaeornis formosus,2
+1073,长尾鹩鹛,Long-tailed Wren-Babbler,Spelaeornis chocolatinus,1
+1074,楔头鹩鹛 ,Wedge-billed Wren Babbler,Spelaeornis humei,1
+1075,红额穗鹛,Bufous-fronted Babbler,Stachyris rufifrons,1
+1076,红头穗鹛,Rufous-capped Babbler,Stachyris ruficeps,0
+1077,金头穗鹛,Golden Babbler,Stachyris chrysaea,0
+1078,黑头穗鹛,Grey-throated Babbler,Stachyris nigriceps,0
+1079,斑颈穗鹛 ,Spot-necked Babbler,Stachyris striolata,0
+1080,纹胸巨鹛,Striped Tit-Babbler,Macronous gularis,0
+1081,红顶鹛,Chestnut-capped Babbler,Timalia pileata,0
+1082,金眼鹛雀,Yellow-eyed Babbler,Chrysomma sinense,0
+1083,宝兴鹛雀,Rufous-tailed Babbler,Chrysomma poecilotis,0
+1084,矛纹草鹛,Chinese Babax,Babax lanceolatus,0
+1085,大草鹛 ,Giant Babax,Babax waddelli,1
+1086,棕草鹛,Tibetan Babax,Babax koslowi,2
+1087,银耳相思鸟,Silver-eared Mesia,Leiothrix argentauris,0
+1088,红嘴相思鸟,Red-billed Leiothrix,Leiothrix lutea,0
+1089,斑胁姬鹛,Cutia,Cutia nipalensis,2
+1090,棕腹鵙鹛,Black-headed Shrike-Babbl,Pteruthius rufiventer,1
+1091,红翅鵙鹛,White-browed Shrike-Babbl,Pteruthius flaviscapis,2
+1092,淡绿鵙鹛,Green Shrike-Babbler,Pteruthius xanthochlorus,2
+1093,栗喉鵙鹛,Chestwect-Turoated Shrike Babbler,Pteruthius melanotis,2
+1094,栗额鵙鹛,Chestnut-fronted Shrike-B,Pteruthius aenobarbus,2
+1095,白头鵙鹛,White-hooded Shrike Babbler,Gampsorhynchus rufulus,2
+1096,锈额斑翅鹛,Rusty-fronted Barwing,Actinodura egertoni,2
+1097,白眶斑翅鹛,Spectacled Barwing,Actinodura ramsayi,0
+1098,纹头斑翅鹛,Hoary-throated Barwing,Actinodura nipalensis,1
+1099,纹胸斑翅鹛,Streak-throated Barwing,Actinodura waldeni,1
+1100,灰头斑翅鹛,Streaked Barwing,Actinodura souliei,1
+1101,台湾斑翅鹛,Formosan Barwing,Actinodura morrisoniana,0
+1102,蓝翅希鹛,Blue-winged Minla,Minla cyanouroptera,0
+1103,斑喉希鹛,Chestnut-tailed Minla,Minla strigula,0
+1104,火尾希鹛,Red-tailed Minla,Minla ignotincta,0
+1105,金胸雀鹛,Golden-breasted Fulvetta,Alcippe chrysotis,1
+1106,金额雀鹛,Gold-fronted Fulvetta,Alcippe variegaticeps,3
+1107,黄喉雀鹛,Yellow-throated Fulvetta,Alcippe cinerea,2
+1108,栗头雀鹛,Rufous-winged Fulvetta,Alcippe castaneceps,2
+1109,白眉雀鹛,White-browed Fulvetta,Alcippe vinipectus,0
+1110,高山雀鹛,Chinese Fulvetta,Alcippe striaticollis,0
+1111,棕头雀鹛,Spectacled Fulvetta,Alcippe ruficapilla,2
+1112,褐头雀鹛,Streak-throated Fulvetta,Alcippe cinereiceps,0
+1113,路德雀鹛,Ludlow's Fulvetta,Alcippe ludlowi,0
+1114,棕喉雀鹛,Rufous-throated Fulvetta,Alcippe rufogularis,2
+1115,褐顶雀鹛,Dusky Fulvetta,Alcippe brunnea,0
+1116,褐胁雀鹛,Rusty-capped Fulvetta,Alcippe dubia,2
+1117,褐脸雀鹛,Brown-cheeked Fulvetta,Alcippe poioicephala,0
+1118,灰眶雀鹛,Grey-cheeked Fulvetta,Alcippe morrisonia,0
+1119,白眶雀鹛,Nepal Fulvetta,Alcippe nipalensis,0
+1120,栗背奇鹛 ,Rufous-backed Sibia,Heterophasia annectens,2
+1121,黑顶奇鹛,Beautiful Sibia,Heterophasia capistrata,1
+1122,灰奇鹛,Grey Sibia,Heterophasia gracilis,3
+1123,黑头奇鹛,Rufous Sibia,Heterophasia melanoleuca,0
+1124,白耳奇鹛,White-eared Sibia,Heterophasia auricularis,0
+1125,丽色奇鹛,Beautiful Sibia,Heterophasia pulchella,2
+1126,长尾奇鹛,Long-tailed Sibia,Heterophasia picaoides,0
+1127,栗耳凤鹛,Striated Yuhina,Yuhina castaniceps,0
+1128,白项凤鹛,White-naped Yuhina,Yuhina bakeri,0
+1129,黄颈凤鹛,Whiskered Yuhina,Yuhina flavicollis,2
+1130,纹喉凤鹛,Stripe-throated Yuhina,Yuhina gularis,0
+1131,白领凤鹛,White-collared Yuhina,Yuhina diademata,0
+1132,棕肛凤鹛,Rufous-vented Yuhina,Yuhina occipitalis,0
+1133,褐头凤鹛,Taiwan Yuhina,Yuhina brunneiceps,0
+1134,黑额凤鹛,Black-chinned Yuhina,Yuhina nigrimenta,0
+1135,白腹凤鹛,White-bellied Yuhina,Yuhina zantholeuca,0
+1136,火尾绿鹛,Fire-tailed Myzornis,Myzornis pyrrhoura,1
+1137,文须雀,Bearded Parrotbill,Panurus biarmicus,0
+1138,红嘴鸦雀,Great Parrotbill,Conostoma aemodium,2
+1139,三趾鸦雀,Three-toed Parrotbill,Paradoxornis paradoxus,2
+1140,褐鸦雀,Brown Parrotbill,Paradoxornis unicolor,2
+1141,灰头鸦雀,Grey-headed Parrotbill,Paradoxornis gularis,0
+1142,斑胸鸦雀 ,Black-breasted Parrotbill,Paradoxornis flavirostris,1
+1143,点胸鸦雀 ,Spot-breasted Parrotbill,Paradoxornis guttaticollis,0
+1144,白眶鸦雀,Spectacled Parrotbill,Paradoxornis conspicillatus,2
+1145,棕头鸦雀,Vinous-throated Parrotbill,Paradoxornis webbianus,0
+1146,褐翅鸦雀,Brown-winged Parrotbill,Paradoxornis brunneus,0
+1147,灰喉鸦雀,Ashy-throated Parrotbill,Paradoxornis alphonsianus,0
+1148,暗色鸦雀 ,Grey-hooded Parrotbill,Paradoxornis zappeyi,3
+1149,灰冠鸦雀,Rusty-throated Parrotbill,Paradoxornis przewalskii,2
+1150,黄额鸦雀 ,Fulvous Parrotbill,Paradoxornis fulvifrons,2
+1151,橙额鸦雀,Black-throated Parrotbill,Paradoxornis nipalensis,2
+1152,金色鸦雀,Golden Parrotbill,Paradoxornis verreauxi,0
+1153,短尾鸦雀,Short-tailed Parrotbill,Paradoxornis davidianus,2
+1154,黑眉鸦雀,Lesser Rufous-headed Parrotbil,Paradoxornis atrosuperciliaris,1
+1155,红头鸦雀,Rufous-headed Parrotbill,Paradoxornis ruficeps,1
+1156,震旦鸦雀,Reed Parrotbill,Paradoxornis heudei,2
+1157,灰[白喉]林莺,Srenter Whitethroat,Sylvia communis,1
+1158,白喉林莺,Lesser Whitethroat,Sylvia curruca,2
+1159,沙白喉林莺,Small Whitethroat,Sylvia minula,0
+1160,漠地林莺,Desert Warbler,Sylvia nana,2
+1161,横斑林莺,Barred Warbler,Sylvia nisoria,1
+1162,歌百灵,Singing Bushlark,Mirafra cantillans,1
+1163,二斑百灵,Bimaculated Lark,Melanocorypha bimaculata,2
+1164,长嘴百灵,Tibetan Lark,Melanocorypha maxima,0
+1165,[蒙古]百灵,Mongolian Lark,Melanocorypha mongolica,2
+1166,白翅百灵,White-winged Lark,Melanocorypha leucoptera,1
+1167,黑百灵,Black Lark,Melanocorypha yeltoniensis,2
+1168,短趾百灵,Red-capped Lark,Calandrella brachydactyla,0
+1169,细嘴短趾百灵,Hume's Short-toed Lark,Calandrella acutirostris,3
+1170,[亚洲]短趾百灵,Asian Short-toed Lark,Calandrella cheleensis,0
+1171,凤头百灵,Crested Lark,Galerida cristata,0
+1172,云雀,Eurasian Skylark,Alauda arvensis,0
+1173,日本云雀,Japanese Skylark,Alauda japonica,2
+1174,小云雀,Oriental Skylark,Alauda gulgula,0
+1175,角百灵,Horned Lark,Eremophila alpestris,0
+1176,厚嘴啄花鸟,Thick-billed Flowerpecker,Dicaeum agile,3
+1177,黄肛啄花鸟,Yellow-vented Flowerpecker,Dicaeum chrysorrheum,0
+1178,黄腹啄花鸟,Yellow-bellied Flowerpecker,Dicaeum melanoxanthum,2
+1179,纯色啄花鸟,Plain Flowerpecker,Dicaeum concolor,0
+1180,红胸啄花鸟,Fire-breasted Flowerpecker,Dicaeum ignipectus,0
+1181,朱背啄花鸟,Scarlet-backed Flowerpecker,Dicaeum cruentatum,2
+1182,紫颊直嘴太阳鸟,Ruby-cheeked Sunbird,Anthreptes singalensis,2
+1183,蓝枕花蜜鸟,Purple-naped Sunbird,Hypogramma hypogrammicum,0
+1184,黄腹花蜜鸟,Olive-backed Sunbird,Nectarinia jugularis,2
+1185,紫色花蜜鸟,Purple Sunbird,Nectarinia asiatica,1
+1186,蓝喉太阳鸟,Mrs Gould's Sunbird,Aethopyga gouldiae,0
+1187,绿喉太阳鸟 ,Green-thriated Sunbird,Aethopyga nipalensis,2
+1188,叉尾太阳鸟,Fork-tailed Sunbird,Aethopyga christinae,0
+1189,黑胸太阳鸟,Black-throated Sunbird,Aethopyga saturata,2
+1190,黄腰太阳鸟,Crimson Sunbird,Aethopyga siparaja,0
+1191,火尾太阳鸟,Fire-tailed Sunbird,Aethopyga ignicauda,2
+1192,长嘴捕蛛鸟,Little Spiderhunter,Arachnothera longirostris,0
+1193,纹背捕蛛鸟 ,Streaked Spiderhunter,Arachnothera magna,0
+1194,黑顶麻雀,Saxaul Sparrow,Passer ammodendri,0
+1195,家麻雀,House Sparrow,Passer domesticus,0
+1196,黑胸麻雀,Spanish Sparrow,Passer hispaniolensis,0
+1197,山麻雀 ,Russet Sparrow,Passer rutilans,0
+1198,[树]麻雀 ,Eurasian Tree Sparrow,Passer montanus,0
+1199,石雀,Rock Sparrow,Petronia petronia,0
+1200,白斑翅雪雀,White-winged Snowfinch,Montifringillla nivalis,0
+1201,褐翅雪雀,Tibetan Snowfinch,Montifringilla adamsi,0
+1202,白腰雪雀,White-rumped Snowfinch,Pyrgilauda taczanowskii,0
+1203,黑喉雪雀,Small Snowfinch,Pyrgilauda davidiana,2
+1204,棕颈雪雀,Rufous-necked Snowfinch,Pyrgilauda ruficollis,0
+1205,棕背雪雀 ,Plain-backed Snowfinch,Pyrgilauda blandfordi,0
+1206,山鹡鸰,Forest Wagtail,Dendronanthus indicus,0
+1207,白鹡鸰 ,White Wagtail,Motacilla alba,0
+1208,黑背鹡鸰,Black-backed Wagtail,Motacilla lugens,2
+1209,日本鹡鸰,Japanese Wagtail,Motacilla grandis,2
+1210,黄头鹡鸰,Citrine Wagtail,Motacilla citreola,0
+1211,黄鹡鸰,Yellow Wagtail,Motacilla flava,0
+1212,灰鹡鸰,Grey Wagtail,Motacilla cinerea,0
+1213,理氏鹨,Richard's Pipit,Anthus richardi,0
+1214,田鹨,Paddyfield Pipit,Anthus rufulus,0
+1215,平原鹨,Tawny Pipit,Anthus campestris,1
+1216,布莱氏鹨,Blyth's Pipit,Anthus godlewskii,1
+1217,林鹨,Tree Pipit,Anthus trivialis,1
+1218,树鹨,Orienfnl Tree Pipit,Anthus hodgsoni,0
+1219,北鹨,Pechora Pipit,Anthus gustavi,1
+1220,草地鹨,Meadow Pipit,Anthus pratensis,1
+1221,红喉鹨,Red-throated Pipit,Anthus cervinus,0
+1222,粉红胸鹨,Rosy Pipit,Anthus roseatus,0
+1223,水鹨,Water Pipit,Anthus spinoletta,0
+1224,黄腹鹨,Buff-bellied Pipit,Anthus rubescens,0
+1225,山鹨,Upland Pipit,Anthus sylvanus,2
+1226,领岩鹨,Cllared Accentor,Prunella collaris,0
+1227,高原岩鹨,Rufous-streaked Accentor,Prunella himalayana,2
+1228,鸲岩鹨,Robin Accentor,Prunella rubeculoides,2
+1229,棕胸岩鹨,Rufous-breasted Accentor,Prunella strophiata,2
+1230,棕眉山岩鹨,Siberian Accentor,Prunella montanella,1
+1231,褐岩鹨,Brown Accentor,Prunella fulvescens,0
+1232,黑喉岩鹨,Black-throated Accentor,Prunella atrogularis,1
+1233,贺兰山岩鹨,Mongolian Accentor,Prunella koslowi,2
+1234,栗背岩鹨,Maroon-backed Accentor,Prunella immaculata,1
+1235,黑喉织布鸟,Ploceus bengalensis,Ploceus bengalensis,2
+1236,纹胸织布鸟 ,Streaked Weaver,Ploceus manyar,2
+1237,黄胸织布鸟,Baya Weaver,Ploceus philippinus,0
+1238,[红]梅花雀 ,Red Avadavat,Amandava amandava,2
+1239,白腰文鸟,White-rumped Munia,Lonchura striata,0
+1240,斑文鸟,Scaly-breasted Munia,Lonchura punctulata,0
+1241,栗腹文鸟,Black-headed Munia,Lonchura malacca,2
+1242,禾雀,Java Sparrow,Lonchura oryzivora,0
+1243,苍头燕雀,Chaffinch,Fringilla coelebs,2
+1244,燕雀 ,Brambling,Fringilla montifringilla,2
+1245,金额丝雀,Fire-fronted Serin,Serinus pusillus,2
+1246,金翅[雀],Grey-capped Greenfinch,Carduelis sinica,0
+1247,高山金翅[雀],Yellow-breasted Greenfinch,Carduelis spinoides,0
+1248,黑头金翅[雀] ,Black-headed Greenfinch,Carduelis ambigua,0
+1249,黄雀,Eurasian Siskin,Carduelis spinus,0
+1250,藏黄雀,Tibetan Serin,Carduelis thibetana,2
+1251,红额金翅[雀] ,European Goldfinch,Carduelis carduelis,0
+1252,极北朱顶雀,Hoary Redpoll,Carduelis hornemanni,2
+1253,白腰朱顶雀,Common Redpoll,Carduelis flammea,0
+1254,黄嘴朱顶雀,Twite,Carduelis flavirostris,0
+1255,赤胸朱顶雀,Eurasian Linnet,Carduelis cannabina,2
+1256,林岭雀,Plain Mountain-Finch,Leucosticte nemoricola,0
+1257,高山岭雀,Brandt's Mountain Finch,Leucosticte brandti,0
+1258,褐头岭雀,Sillem's Mountain Finch,Leucosticte sillemi,1
+1259,粉红腹岭雀 ,Asian Rosy-Finch,Leucosticte arctoa,0
+1260,红眉金翅雀 ,Spectacled Finch,Callacanthis burtoni,1
+1261,赤翅沙雀,Crimson-winged Finch,Rhodopechys sanguinea,1
+1262,蒙古沙雀,Mongolian Finch,Bucanetes mongolica,0
+1263,巨嘴沙雀 ,Desert Finch,Rhodospiza obsoleta,3
+1264,长尾雀,Long-tailed Rosefinch,Uragus sibiricus,0
+1265,赤朱雀,Crimson Rosefinch,Carpodacus rubescens,2
+1266,暗胸朱雀,Dark-breasted Rosefinch,Carpodacus nipalensis,0
+1267,普通朱雀,Common Rosefinch,Carpodacus erythrinus,0
+1268,红眉朱雀,Beautiful Rosefinch,Carpodacus pulcherrimus,0
+1269,曙红朱雀,Pink-rumped Rosefinch,Carpodacus eos,2
+1270,玫红眉朱雀 ,Pink-browed Rosefinch,Carpodacus rhodochrous,1
+1271,酒红朱雀,Vinaceous Rosefinch,Carpodacus vinaceus,2
+1272,棕朱雀,Dark-rumped Rosefinch,Carpodacus edwardsii,3
+1273,沙色朱雀,Pale Rosefinch,Carpodacus synoicus,0
+1274,北朱雀,Pallas's Rosefinch,Carpodacus roseus,2
+1275,斑翅朱雀,Three-banded Rosefinch,Carpodacus trifasciatus,3
+1276,点翅朱雀,Spot-winged Rosefinch,Carpodacus rhodopeplus,1
+1277,白眉朱雀,White-browed Rosefinch,Carpodacus thura,0
+1278,红腰朱雀,Red-mantled Rosefinch,Carpodacus rhodochlamys,1
+1279,拟大朱雀,Streaked Rosefinch,Carpodacus rubicilloides,2
+1280,大朱雀,Great Rosefinch,Carpodacus rubicilla,2
+1281,红胸朱雀,Red-fronted Rosefinch,Carpodacus puniceus,0
+1282,藏雀,Tibetan Rosefinch,Carpodacus roborowskii,1
+1283,松雀,Pine Grosbeak,Pinicola enucleator,1
+1284,红眉松雀,Crimson-browed Finch,Propyrrhula subhimachala,2
+1285,血雀,Scarlet Finch,Haematospiza sipahi,2
+1286,红交嘴雀,Red Crossbill,Loxia curvirostra,0
+1287,白翅交嘴雀,White-winged Crossbill,Loxia leucoptera,1
+1288,褐灰雀,Brown Bullfinch,Pyrrhula nipalensis,0
+1289,红头灰雀,Red-headed Bullfinch,Pyrrhula erythrocephala,0
+1290,灰头灰雀,Grey-headed Bullfinch,Pyrrhula erythaca,0
+1291,红腹灰雀,Eurasian Bullfinch,Pyrrhula pyrrhula,1
+1292,锡嘴雀,Hawfinch,Coccothraustes coccothraustes,0
+1293,黑尾蜡嘴雀,Yellow-billed Grosbeak,Eophona migratoria,0
+1294,黑头蜡嘴雀,Japanese Grosbeak,Eophona personata,0
+1295,黄颈拟蜡嘴雀,Collared Grosbeak,Mycerobas affinis,0
+1296,白点翅拟蜡嘴雀,Spot-winged Grosbeak,Mycerobas melanozanthos,2
+1297,白斑翅拟蜡嘴雀 ,White-winged Grosbeak,Mycerobas carnipes,0
+1298,金枕黑雀,Gold-naped Finch,Pyrrhoplectes epauletta,0
+1299,朱鹀,Rosc Bunting,Urocynchramus pylzowi,2
+1300,凤头鹀,Crested Bunting,Melophus lathami,0
+1301,蓝鹀,Slaty Bunting,Latoucheornis siemsseni,0
+1302,黄鹀,Yellowhammer,Emberiza citrinella,1
+1303,白头鹀,Pine Bunting,Emberiza leucocephalos,0
+1304,藏鹀,Tibetan Bunting,Emberiza koslowi,1
+1305,灰眉岩鹀,Rock Bunting,Emberiza cia,0
+1306,戈氏岩鹀,Godlewski's Bunting,Emberiza godlewskii,0
+1307,三道眉草鹀 ,Meadow Bunting,Emberiza cioides,0
+1308,栗斑腹鹀 ,Rufous-backed Bunting,Emberiza jankowskii,2
+1309,灰颈鹀,Grey-necked Bunting,Emberiza buchanani,0
+1310,圃鹀,Ortolan Bunting,Emberiza hortulana,0
+1311,白眉鹀,Tristram's Bunting,Emberiza tristrami,0
+1312,栗耳鹀 ,Chestnut-eared Bunting,Emberiza fucata,0
+1313,小鹀,Little Bunting,Emberiza pusilla,0
+1314,黄眉鹀,Yellow-browed Bunting,Emberiza chrysophrys,2
+1315,田鹀,Rustic Bunting,Emberiza rustica,0
+1316,黄喉鹀 ,Yellow-throated Bunting,Emberiza elegans,0
+1317,黄胸鹀,Yellow-breasted Bunting,Emberiza aureola,0
+1318,栗鹀,Chestnut Bunting,Emberiza rutila,0
+1319,黑头鹀 ,Red-headed Bunting,Emberiza melanocephala,1
+1320,褐头鹀,Red-headed Bunting,Emberiza bruniceps,0
+1321,硫黄鹀,Yellow Bunting,Emberiza sulphurata,1
+1322,灰头鹀,Black-faced Bunting,Emberiza spodocephala,0
+1323,灰鹀,Grey Bunting,Emberiza variabilis,2
+1324,苇鹀,Pallas's Bunting,Emberiza pallasi,1
+1325,芦鹀,Reed Bunting,Emberiza schoeniclus,0
+1326,红颈苇鹀,Ochre-rumped Bunting,Emberiza yessoensis,2
+1327,黍鹀,Corn Bunting,Miliaria calandra,2
+1328,铁爪鹀,Lapland Longspur,Calcarius lapponicus,2
+1329,雪鹀,Snow Bunting,Plectrophenax nivalis,1
