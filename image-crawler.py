@@ -243,8 +243,8 @@ def download_extended_page(url, chromedriver):
     except Exception as e:
         print("Cannot find chromedriver(exception: %s)" % e)
         sys.exit()
-    browser.set_window_size(1024, 768)
 
+    browser.set_window_size(1024, 768)
     # Open the link
     browser.get(url)
     time.sleep(1)
@@ -255,15 +255,15 @@ def download_extended_page(url, chromedriver):
     while failed_count < 50:
         for _ in range(30):
             element.send_keys(Keys.PAGE_DOWN)
-            time.sleep(0.5)
+            time.sleep(0.3)
 
-        time.sleep(5)
+        time.sleep(1)
         try:
             browser.find_element_by_id("smb").click()
+            break
         except:
             failed_count += 1
             print("Cannot find 'Show More Results' button, retrying")
-        print(browser.page_source)
 
     print("Reached end of Page.")
 
@@ -279,7 +279,8 @@ if __name__ == "__main__":
     dir_name = 'images'
     limit = 500
     search_term = 'AA'
-    chromedriver = '/home/tjy/repos/birds/chromedriver'
+    # chromedriver = '/home/tjy/repos/birds/chromedriver'
+    chromedriver = 'E:\\repos\\birds\\chromedriver.exe'
 
     print("Building url parameters")
     params = build_url_parameters()  # building URL with params
