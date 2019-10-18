@@ -15,8 +15,12 @@ if __name__ == "__main__":
 
     n_birds = len(bird_eng_names)
 
-    # chromedriver_path = '/home/tjy/repos/birds/chromedriver'
-    chromedriver_path = 'E:\\repos\\birds\\chromedriver.exe'
+    
+    chromedriver_path = ''
+    if sys.platform.startswith('linux'):
+        chromedriver_path = '/home/tjy/repos/birds/chromedriver'
+    elif sys.platform.startswith('win32'):
+        chromedriver_path = 'E:\\repos\\birds\\chromedriver.exe'
     # set chromedriver to PATH
     os.environ["PATH"] += os.pathsep + chromedriver_path
 
