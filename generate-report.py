@@ -30,6 +30,12 @@ if __name__ == "__main__":
         for i in range(n_birds):
             writer.writerow([bird_eng_names[i], bird_img_count[i]])
 
+    with open('todo.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        for i in range(n_birds):
+            if bird_img_count[i] < 400:
+                writer.writerow([bird_eng_names[i]])
+
     with open('n_images_count.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         n_counters = len(counter.keys())
