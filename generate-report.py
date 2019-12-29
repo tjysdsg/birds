@@ -4,9 +4,11 @@ import sys
 from collections import Counter
 
 if __name__ == "__main__":
-    if len(sys.argv) == 0:
-        print("Need to specify the location of the dataset")
-    img_dir = sys.argv[1]
+    if len(sys.argv) == 1:
+        img_dir = '/home/tjy/data/china-birds-images'
+    else:
+        print(sys.argv)
+        img_dir = sys.argv[1]
     bird_eng_names = []
     
     with open('bird_china_map_labeled.csv', newline='') as csvfile:

@@ -1,6 +1,6 @@
 Snow Partridge,444
 Tibetan Snowcock,884
-Altai Snowcock,500
+Altai Snowcock,458
 Himalayan Snowcock,910
 Pheasant Grouse,500
 Sichuan Pheasant Partridge,500
@@ -42,7 +42,7 @@ Taiwan Blue Pheasant,995
 Tibetan Eared-pheasant,999
 White Eared-Pheasant,979
 Brown Eared-Pheasant,939
-Blue Eared Pheasant,955
+Blue Eared Pheasant,945
 White-necked Long-tailed Pheas,645
 Mrs.Hume's Pheasant,323
 Taiwan Long-tailed Pheasant,996
@@ -54,7 +54,7 @@ Hainan grey peacock-pheasant,500
 Hainan Peacock Pheasant,952
 Green Peafowl,500
 Sickle-winged Grouse,500
-Willow Ptarmigan,500
+Willow Ptarmigan,0
 Rock Ptarmigan,500
 Black Grouse,500
 Western Capercaillie,987
@@ -124,7 +124,7 @@ Pygmy Woodpecker,500
 Lesser Spotted Woodpecker,499
 Fulvous-breasted Woodpecker,421
 Stripe-breasted Woodpecker,500
-Rufous-bellied Woodpecker,447
+Rufous-bellied Woodpecker,0
 Crimson-breasted Woodpecker,0
 Darjeeling Woodpecker,500
 White-backed Woodpecker,500
@@ -296,7 +296,7 @@ Great Bustard,309
 McQueen's Bustard,498
 Siberian Crane,345
 Sarus Crane,500
-White-naped Crane,500
+White-naped Crane,0
 Sandhill Crane,500
 Demoiselle Crane,500
 Common Crane,500
@@ -351,8 +351,8 @@ Terek Sandpiper,352
 Common Sandpiper,500
 Grey-tailed Tattler,500
 Wandering Tattler,500
-Ruddy Turnstone,367
-Long-billed Dowitcher,500
+Ruddy Turnstone,0
+Long-billed Dowitcher,0
 Asian Dowitcher,467
 Great Knot,500
 Red Knot,500
@@ -378,7 +378,7 @@ Red-necked Phalarope,138
 Red Phalarope,0
 Greater Painted-snipe,182
 Pheasant-tailed Jacana,237
-Bronze-winged Jacana,317
+Bronze-winged Jacana,0
 Eurasian Thick-knee,412
 Great Thick-knee,312
 Eurasian Oystercatcher,240
@@ -406,7 +406,7 @@ Oriental Pratincole,439
 Small Pratincole,338
 Great Skua,851
 Great Skua,851
-Pomarine Jaeger,348
+Pomarine Jaeger,0
 Parasitic Jaeger,493
 Long-tailed Jaeger,500
 Indian Skimmer,339
@@ -426,7 +426,7 @@ Slender-billed Gull,325
 Saunders's Gull,249
 Relict Gull,315
 Little Gull,510
-Ross's Gull,328
+Ross's Gull,0
 Sabine's Gull,292
 Black-legged Kittiwake,344
 Gull-billed Tern,352
@@ -440,7 +440,7 @@ Black-naped Tern,229
 Common Tern,500
 Little Tern,331
 Black-bellied Tern,269
-Aleutian Tern,328
+Aleutian Tern,316
 Bridled Tern,472
 Sooty Tern,324
 Whiskered Tern,500
@@ -461,7 +461,7 @@ Black Kite,367
 Black-eared Kite,343
 Brahminy Kite,341
 White-bellied Sea Eagle,337
-Pallas's Sea-Eagle,356
+Pallas's Sea-Eagle,0
 White-tailed Sea Eagle,407
 Steller's Sea-eagle,351
 Lesser Fish-Eagle,461
@@ -470,9 +470,9 @@ White-rumped Vulture,333
 Himalayan Griffon,500
 Eurasian Griffon,458
 Cinereous Vulture,334
-Red-headed Vulture,408
+Red-headed Vulture,0
 Short-toed Snake-Eagle,499
-Crested Serpent-Eagle,500
+Crested Serpent-Eagle,0
 Western Marsh-Harrier,500
 Eastern Marsh-Harrier,462
 Northern Harrier,499
@@ -591,7 +591,7 @@ Black-footed Albatross,352
 Laysan Albatross,342
 Wilson's Storm-Petrel,345
 Leach's Storm-Petrel,255
-Swinhoe's Storm-Petrel,305
+Swinhoe's Storm-Petrel,0
 Matsudaira's Storm-Petrel,296
 Eared Pitta,257
 Blue-naped Pitta,312
@@ -605,7 +605,7 @@ Silver-breasted Broadbill,345
 Long-tailed Broadbill,355
 Asian Fairy-bluebird,343
 Blue-winged Leafbird,345
-Golden-fronted Leafbird,258
+Golden-fronted Leafbird,0
 Orange-bellied Leafbird,330
 Tiger Shrike,328
 Bull-headed Shrike,309
@@ -673,7 +673,7 @@ Black Drongo,468
 Ashy Drongo,455
 Crow-biled Drongo,491
 Bronzed Drongo,449
-Lesser Racquet-tailed Drongo,485
+Lesser Racquet-tailed Drongo,0
 Spangled Drongo,500
 Greater Racket-tailed Drongo,417
 Black-naped Monarch,0
@@ -727,7 +727,7 @@ Spotted Flycatcher,355
 Grey-streaked Flycatcher,332
 Sooty Flycatcher,499
 Asian Brown Flycatcher,500
-Brown-breasted Flycatcher,322
+Brown-breasted Flycatcher,0
 Ferruginous Flycatcher,331
 Yellow-rumped Flycatcher,342
 Narcissus Flycatcher,350
@@ -763,7 +763,7 @@ Common Nightingale,841
 Common Nightingale,841
 Siberian Rubythroat,500
 White-tailed Rubythroat,323
-Bluethroat,500
+Bluethroat,0
 Rufous-headed Robin,500
 Blackthroated,500
 Firethroat,307
@@ -776,7 +776,7 @@ Rufous-breasted Bush Robi,327
 Collared Bush-Robin,500
 Oriental Magpie-Robin,500
 White-rumped Shama,333
-Ala Shan Redstart,492
+Ala Shan Redstart,470
 Rufous-backed Redstart,500
 Blue-capped Redstart,500
 Black Redstart,500
@@ -810,7 +810,7 @@ Variable Wheatear,394
 Pied Wheatear,500
 Desert Wheatear,347
 Isabelline Wheatear,499
-Chestnut-tailed Starling,462
+Chestnut-tailed Starling,0
 Brahminy Starling,439
 Silky stanling,500
 Purple-backed Starling,354
@@ -844,13 +844,13 @@ Wallcreeper,345
 Eurasian Tree-Creeper,182
 Bar-tailed Tree-Creeper,500
 Rusty-flanked Treecreeper,500
-Brown-throated Treecreeper,500
+Brown-throated Treecreeper,0
 Wren,349
 White-erowned penduline Tit,500
 Chinese Penduline Tit,333
 Fire-capped Tit,500
 Marsh Tit,500
-Willow Tit,500
+Willow Tit,0
 White-browed Tit,341
 Rusty-breasted Tit,331
 Siberian Tit,496
@@ -924,7 +924,7 @@ Chestnut-flanked White-ey,282
 Oriental White-eye,340
 Japanese White-eye,352
 Chestnut-headed Tesia,306
-Slaty-bellied Tesia,293
+Slaty-bellied Tesia,0
 Grey-bellied Tesia,224
 Asian Stubtail,253
 Pale-footed Bush-Warbler,0
@@ -932,18 +932,18 @@ Manchurian Bush Warbler,226
 Japanese Bush-Warbler,128
 Brownish-flanked Bush-War,137
 Chestnut-crowned Bush-War,308
-Aberrant Bush-Warbler,325
+Aberrant Bush-Warbler,303
 Yellowish-bellied Bush Warbler,500
 Grey-sided Bush-Warbler,500
 Cetti's Warbler,482
 Spotted Bush-Warbler,546
-Long-billed Bush-Warbler,348
+Long-billed Bush-Warbler,0
 Chinese BushWarbler,500
 Brown Bush-Warbler,499
 Russet Bush-Warbler,345
 Lanceolated Warbler,482
 Grasshopper Warbler,339
-Rusty-rumped Warbler,499
+Rusty-rumped Warbler,0
 Middendorff's Warbler,483
 Pleske's Warbler,304
 Savi's Warbler,358
@@ -990,7 +990,7 @@ Hume's Warbler,263
 Arctic Warbler,353
 Greenish Warbler,356
 Two-barredWarbler,339
-Pale-legged Warbler,317
+Pale-legged Warbler,0
 Large-billed Warbler,329
 Eastern Crowned Warbler,341
 Emei Leaf Warbler,296
@@ -1049,7 +1049,7 @@ Red-tailed Laughingthrush,0
 Red-faced Liocichla,0
 Omei Shan Liocichla,0
 Steere's Liocichla,0
-Buff-breasted Babbler,500
+Buff-breasted Babbler,0
 Spot-throated Babbler,500
 Puff-throated Babbler,479
 Large Scimitar-Babbler,500
@@ -1112,7 +1112,7 @@ Spectacled Fulvetta,500
 Streak-throated Fulvetta,500
 Ludlow's Fulvetta,500
 Rufous-throated Fulvetta,500
-Dusky Fulvetta,500
+Dusky Fulvetta,0
 Rusty-capped Fulvetta,500
 Brown-cheeked Fulvetta,386
 Grey-cheeked Fulvetta,399
@@ -1167,7 +1167,7 @@ White-winged Lark,500
 Black Lark,500
 Red-capped Lark,500
 Hume's Short-toed Lark,500
-Asian Short-toed Lark,500
+Asian Short-toed Lark,0
 Crested Lark,500
 Eurasian Skylark,500
 Japanese Skylark,499
@@ -1268,7 +1268,7 @@ Common Rosefinch,500
 Beautiful Rosefinch,467
 Pink-rumped Rosefinch,500
 Pink-browed Rosefinch,429
-Vinaceous Rosefinch,446
+Vinaceous Rosefinch,0
 Dark-rumped Rosefinch,500
 Pale Rosefinch,498
 Pallas's Rosefinch,462
