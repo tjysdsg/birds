@@ -1,14 +1,16 @@
 import csv
 import os
 import sys
+import argparse
 from collections import Counter
 
 if __name__ == "__main__":
-    if len(sys.argv) == 1:
-        img_dir = '/home/tjy/data/china-birds-images'
-    else:
-        print(sys.argv)
-        img_dir = sys.argv[1]
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--data-dir', help='Directory containing the data', nargs='?', type=str, default='/home/tjy/data/china-birds-images')
+    parser.add_argument('--output', help='Output file name not including extension', nargs='?', type=str, default='output.csv')
+    args = parser.parse_args()
+    output_file = args.output
+    img_dir = args.data_dir
     bird_eng_names = []
     
     with open('bird_china_map_labeled.csv', newline='') as csvfile:
@@ -27,18 +29,18 @@ if __name__ == "__main__":
 
     counter = Counter(bird_img_count)
     # write report
-    with open('report.csv', 'w', newline='') as csvfile:
+    with open(output_file + '.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         for i in range(n_birds):
             writer.writerow([bird_eng_names[i], bird_img_count[i]])
 
-    with open('todo.csv', 'w', newline='') as csvfile:
+    with open(output_file + '_todo.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         for i in range(n_birds):
             if bird_img_count[i] < 400:
                 writer.writerow([bird_eng_names[i]])
 
-    with open('n_images_count.csv', 'w', newline='') as csvfile:
+    with open(output_file + '_images_count.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         n_counters = len(counter.keys())
         for i in range(n_counters):
