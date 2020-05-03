@@ -15,15 +15,7 @@ if __name__ == "__main__":
 
     n_birds = len(bird_eng_names)
 
-    
-    chromedriver_path = ''
-    if sys.platform.startswith('linux'):
-        chromedriver_path = '/home/tjy/repos/birds/chromedriver'
-    elif sys.platform.startswith('win32'):
-        chromedriver_path = 'E:\\repos\\birds\\chromedriver.exe'
-    # set chromedriver to PATH
-    os.environ["PATH"] += os.pathsep + chromedriver_path
-
+    chromedriver_path = os.environ["CHROME_DRIVER_PATH"];
     for i in range(n_birds):
         if bird_img_count[i] < 400:
             response = google_images_download.googleimagesdownload()
