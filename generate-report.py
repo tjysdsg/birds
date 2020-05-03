@@ -6,8 +6,8 @@ from collections import Counter
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data-dir', help='Directory containing the data', nargs='?', type=str, default='/home/tjy/data/china-birds-images')
-    parser.add_argument('--output', help='Output file name not including extension', nargs='?', type=str, default='output.csv')
+    parser.add_argument('--data-dir', help='Directory containing the data', nargs='?', type=str)
+    parser.add_argument('--output', help='Output file name excluding extension', nargs='?', type=str, default='output')
     args = parser.parse_args()
     output_file = args.output
     img_dir = args.data_dir
@@ -33,15 +33,3 @@ if __name__ == "__main__":
         writer = csv.writer(csvfile)
         for i in range(n_birds):
             writer.writerow([bird_eng_names[i], bird_img_count[i]])
-
-    with open(output_file + '_todo.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        for i in range(n_birds):
-            if bird_img_count[i] < 400:
-                writer.writerow([bird_eng_names[i]])
-
-    with open(output_file + '_images_count.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        n_counters = len(counter.keys())
-        for i in range(n_counters):
-            writer.writerow([list(counter.keys())[i], list(counter.values())[i]])

@@ -1,3 +1,7 @@
+.idea/
+.vs/
+*build*/
+images/
 data-filtered/
 pretrained_model/
 *.pkl
@@ -146,11 +150,3 @@ Session.vim
 tags
 # Persistent undo
 [._]*.un~
-
-# End of https://www.gitignore.io/api/vim,python
-#
-.idea/
-.vs/
-*build*/
-
-images/
