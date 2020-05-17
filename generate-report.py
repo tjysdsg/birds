@@ -1,35 +1,32 @@
-import csv
 import os
-import sys
+import json
 import argparse
-from collections import Counter
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data-dir', help='Directory containing the data', nargs='?', type=str)
-    parser.add_argument('--output', help='Output file name excluding extension', nargs='?', type=str, default='output')
+    parser.add_argument('--list-file', help='File containing a list of image files', nargs='?', type=str)
+    parser.add_argument('--output', help='Output file name excluding extension', nargs='?', type=str, default='report')
     args = parser.parse_args()
     output_file = args.output
-    img_dir = args.data_dir
+    list_file = args.list_file
     bird_eng_names = []
-    
-    with open('bird_china_map_labeled.csv', newline='') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            bird_eng_names.append(row[2])
-        del bird_eng_names[0]
 
-    bird_img_count = [0 for _ in bird_eng_names]
-    n_birds = len(bird_eng_names)
-    for i in range(n_birds):
-        bird = bird_eng_names[i]
-        bird_dir = os.path.join(img_dir, bird)
-        if os.path.isdir(bird_dir):
-            bird_img_count[i] = len(os.listdir(bird_dir))
+    # map original filename to filtered filename
+    orig2filtered_raw: dict = json.load(open("orig2filtered.json"))
+    orig2filtered = {}
+    for k, v in orig2filtered_raw.items():
+        k = os.path.basename(k)
+        orig2filtered[k] = v
 
-    counter = Counter(bird_img_count)
-    # write report
-    with open(output_file + '.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        for i in range(n_birds):
-            writer.writerow([bird_eng_names[i], bird_img_count[i]])
+    os.makedirs("filtered_logs", exist_ok=True)
+    for bird_cat in os.listdir("logs"):
+        filtered_log = {}
+        log: dict = json.load(open(os.path.join("logs", bird_cat)))
+        for f in log:
+            orig_key = f['image_filename']
+            if orig_key not in orig2filtered:
+                continue
+            filename = orig2filtered[orig_key]
+            f['image_filename'] = filename
+            filtered_log[filename] = f
+        json.dump(filtered_log, open(os.path.join("filtered_logs", bird_cat), "w"))
