@@ -2,7 +2,7 @@
 
 ## 数据来源
 
-来源于Google Images, 用这个[脚本](https://github.com/tjysdsg/birds/blob/master/selective-download.py)下载的
+来源于Google Images, 用这个[脚本](https://github.com/tjysdsg/birds/blob/master/selective-download.py) 下载的
 
 NOTE: you need to download chromedriver executable, and set the path to
 `CHROME_DRIVER_PATH` environment variable to run the script.
@@ -52,3 +52,8 @@ NOTE: you need to download chromedriver executable, and set the path to
     - 鸟类名字2.json
     - ...
     - 鸟类名字N.json
+    
+# 文件(夹)命名规则
+
+- 鸟类名: 全部来自于`bird_china_map_labeled.csv`中的`English Name`列
+- 鸟图片名: 鸟类名 + 下划线(`_`) + 编号(此编号和`bird_china_map_labeled.csv`中的ID一列**无关**)

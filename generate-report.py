@@ -28,5 +28,5 @@ if __name__ == "__main__":
                 continue
             filename = orig2filtered[orig_key]
             f['image_filename'] = filename
-            filtered_log[filename] = f
+            filtered_log[filename] = f['image_link']
         json.dump(filtered_log, open(os.path.join("filtered_logs", bird_cat), "w"))
